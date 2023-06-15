@@ -1,0 +1,24 @@
+id,名称,描述,作者,URL
+1,Greasemonkey/Tampermonkey/Violentmonkey test style,"If you install this and all text turns red, then things are working.",JasonBarnabe,https://greasyfork.org/zh-CN/scripts/1
+2,Kaskus - Main Tennis - Slow Mimin,Bikin Mimin jadi lemot.,LouCypher,https://greasyfork.org/zh-CN/scripts/2
+3,Kaskus - Scroll to Top,Add button on Kaskus topbar to quickly scroll to top.,LouCypher,https://greasyfork.org/zh-CN/scripts/3
+4,GitHub - Open Source Report Card,Add link to The Open Source Report Card http://osrc.dfm.io/,LouCypher,https://greasyfork.org/zh-CN/scripts/4
+5,Twitter Settings sub-menu,Add sub-menu for Twitter settings for quick access.,LouCypher,https://greasyfork.org/zh-CN/scripts/5
+6,AMO: Manage My Submisions - View Listing Links,Add/change add-ons view/edit link on AMO DevHub,LouCypher,https://greasyfork.org/zh-CN/scripts/6
+7,about:newtab,Add input fields to change rows and columns setting on about:newtab page. For Scriptish only.,LouCypher,https://greasyfork.org/zh-CN/scripts/7
+8,Tumblr Tumview Linker,Add Tumview.com link on Tumblr sites and vice versa.,LouCypher,https://greasyfork.org/zh-CN/scripts/8
+9,Fade In and Out,Adds fade out effect when the page is unloaded,LouCypher,https://greasyfork.org/zh-CN/scripts/9
+10,Kaskus - Hide Deleted VM,Hide deleted VM on your profile page.,LouCypher,https://greasyfork.org/zh-CN/scripts/10
+12,View Add-on Compatibility Reports,Adds a link to add-on compatibility reports on addons.mozilla.org.,LouCypher,https://greasyfork.org/zh-CN/scripts/12
+13,Extension List Generator,"For Scriptish only. Generate list of enabled extensions from Add-ons Manager to HTML, Markdown, BBCode or plain text output.",LouCypher,https://greasyfork.org/zh-CN/scripts/13
+14,Darken,Add menuitem into browser context menu to darken the web page. For Firefox 11.0 and newer only.,LouCypher,https://greasyfork.org/zh-CN/scripts/14
+16,mozillaZine Forums Menu,Navigation menu for mozillaZine Forums,LouCypher,https://greasyfork.org/zh-CN/scripts/16
+17,xkcd+,"Add buttons on xkcd.com to share on Twitter, Tumblr, Pinterest, etc. as well as add button for explainxkcd.com.",LouCypher,https://greasyfork.org/zh-CN/scripts/17
+19,GitHub: Add Flattr button,Add Flattr button on GitHub.com,LouCypher,https://greasyfork.org/zh-CN/scripts/19
+20,Search by Image Context Menu,Add menu in browser context menu when you right click on an image to search that image on search engines.,LouCypher,https://greasyfork.org/zh-CN/scripts/20
+21,Context Menu Example,Share page/link to Twitter/Facebook/Google+ from browser context menu,LouCypher,https://greasyfork.org/zh-CN/scripts/21
+22,Wikipedia: Edit 1st Section,Allow editing the first section,LouCypher,https://greasyfork.org/zh-CN/scripts/22
+24,AMO: Manage My Add-on,Manage your add-on from add-on page without having to visit dev-hub page first,LouCypher,https://greasyfork.org/zh-CN/scripts/24
+25,mozillaZine Forums: Fix sidebar when scrolling,Fix sidebar position when scrolling,LouCypher,https://greasyfork.org/zh-CN/scripts/25
+26,MozillaZine Forums - Find user posts,"Add links to find user""s posts",LouCypher,https://greasyfork.org/zh-CN/scripts/26
+30,AMO: Randomize Contribute Button,Randomize 'Contribute' button on Mozilla Add-ons,LouCypher,https://greasyfork.org/zh-CN/scripts/30

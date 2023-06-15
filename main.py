@@ -4,7 +4,8 @@ import threading
 import requests
 import pandas as pd
 import argparse
-import openpyxl
+import csv
+
 
 parser = argparse.ArgumentParser()
 parser.add_argument('start_id', type=int)
@@ -15,8 +16,6 @@ args = parser.parse_args()
 start_id = args.start_id
 end_id = args.end_id
 num_threads = args.num_threads
-
-
 
 data_lock = threading.Lock()
 data = []
@@ -29,7 +28,7 @@ def getScriptInfo(id):
     script_info = soup.find("section", attrs={"id": "script-info"})
 
     if script_info is None:
-        if response.text.find("请求的脚本已被删除。") != -1:
+        if response.text.find("已被删除。") != -1:
             print(f"id:{id} 已被删除。")
         else:
             with data_lock:
@@ -39,9 +38,9 @@ def getScriptInfo(id):
         description = script_info.find("p", attrs={"id": "script-description"}).string
         author = script_info.find("dd", attrs={"class": "script-show-author"}).find("span").find("a").string
 
-        # 创建包含数据的 DataFrame
+        # 创建包含数据的字典
         script_data = {
-            "ID": id,
+            "id": id,
             "名称": name,
             "描述": description,
             "作者": author,
@@ -54,8 +53,8 @@ def getScriptInfo(id):
 def getAllScriptInfo(start_id, end_id, num_threads):
     # 读取现有数据
     try:
-        existing_data = pd.read_excel("script_info.xlsx")
-        existing_ids = set(existing_data["ID"].tolist())
+        existing_data = pd.read_csv("script_info.csv")
+        existing_ids = set(existing_data["id"].tolist())
         start_id = max(start_id, max(existing_ids) + 1)
     except FileNotFoundError:
         existing_data = None
@@ -87,47 +86,26 @@ def getAllScriptInfo(start_id, end_id, num_threads):
 
     if data:
         # 将字典对象转换为 DataFrame
-        data_frames = [pd.DataFrame([d]) for d in data]
-
-        # 拼接所有的 DataFrame 对象
-        combined_df = pd.concat(data_frames, ignore_index=True)
-
+        combined_df = pd.DataFrame(data)
 
         if existing_data is not None:
             combined_df = pd.concat([existing_data, combined_df], ignore_index=True)
 
-        combined_df.to_excel("script_info.xlsx", index=False)
-        print("数据保存至 script_info.xlsx")
+        combined_df.to_csv("script_info.csv", index=False)
+        print("数据保存至 script_info.csv")
 
-if failed_ids:
-    failed_range = f"{failed_ids[0]}-{failed_ids[-1]}"
-    failed_info = {
-        "未成功爬取的脚本ID范围": [failed_range],
-        "未成功爬取的脚本ID": [",".join(map(str, failed_ids))]
-    }
-    failed_df = pd.DataFrame(failed_info)
+    if failed_ids:
+        print("以下id请求失败：",failed_ids)
+    # 读取CSV文件
+    data_frame = pd.read_csv("script_info.csv")
 
-    file_path = "script_info.xlsx"
+    # 按ID列进行升序排序
+    sorted_data = data_frame.sort_values("id")
 
-    try:
-        # 尝试打开现有的Excel文件
-        workbook = openpyxl.load_workbook(file_path)
-    except FileNotFoundError:
-        workbook = openpyxl.Workbook()
+    # 将排序后的数据覆盖原始CSV文件
+    sorted_data.to_csv("script_info.csv", index=False)
 
-    # 如果工作表已存在，则删除它
-    if "未成功爬取的脚本ID" in workbook.sheetnames:
-        del workbook["未成功爬取的脚本ID"]
-
-    # 将数据写入新的工作表
-    with pd.ExcelWriter(file_path, engine="openpyxl") as writer:
-        writer.book = workbook
-        failed_df.to_excel(writer, sheet_name="未成功爬取的脚本ID", index=False)
-
-    print("未成功爬取的脚本ID已记录至 script_info.xlsx")
-
-
-
+    print("数据已按ID排序并保存至 script_info.csv 文件。")
 
 
 getAllScriptInfo(start_id, end_id, num_threads)
