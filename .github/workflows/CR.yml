@@ -1,0 +1,33 @@
+name: Crawl Script
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run script
+        run: python main.py ${{ matrix.start_id }} ${{ matrix.end_id }} ${{ matrix.num_threads }}
+        env:
+          PYTHONUNBUFFERED: 1
+
+    strategy:
+      matrix:
+        start_id: [1]
+        end_id: [100]
+        num_threads: [5]
