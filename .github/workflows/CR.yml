@@ -10,11 +10,11 @@ on:
       end_id:
         description: end_id
         required: true
-        default: "100"
+        default: "10000"
       num_threads:
         description: num_threads
         required: true
-        default: "5"
+        default: "10"
     
   push:
     branches:
