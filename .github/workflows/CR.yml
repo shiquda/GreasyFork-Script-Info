@@ -40,3 +40,11 @@ jobs:
         run: python main.py ${{ github.event.inputs.start_id }} ${{ github.event.inputs.end_id }} ${{ github.event.inputs.num_threads }}
         env:
           PYTHONUNBUFFERED: 1
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Auto commit by GitHub Action"
+          git push
