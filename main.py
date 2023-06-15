@@ -1,9 +1,21 @@
-import threading
+from tqdm import tqdm
 from bs4 import BeautifulSoup
+import threading
 import requests
 import pandas as pd
-import time
-from tqdm import tqdm
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument('start_id', type=int)
+parser.add_argument('end_id', type=int)
+parser.add_argument('num_threads', type=int)
+args = parser.parse_args()
+
+start_id = args.start_id
+end_id = args.end_id
+num_threads = args.num_threads
+
+
 
 data_lock = threading.Lock()
 data = []
@@ -96,14 +108,13 @@ def getAllScriptInfo(start_id, end_id, num_threads):
         failed_df = pd.DataFrame(failed_info)
 
         with pd.ExcelWriter("script_info.xlsx", mode="a", engine="openpyxl") as writer:
-            failed_df.to_excel(writer, sheet_name="未成功爬取的脚本ID", index=False)
+            failed_df.to_excel(writer, sheet_name="未成功爬取的脚本ID", index=False, if_sheet_exists="replace")
 
         print("未成功爬取的脚本ID已记录至 script_info.xlsx")
 
 
 
 
-start_id, end_id, num_threads = 1, 250, 5
 
 
 getAllScriptInfo(start_id, end_id, num_threads)
