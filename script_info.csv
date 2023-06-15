@@ -22,3 +22,543 @@ id,名称,描述,作者,URL
 25,mozillaZine Forums: Fix sidebar when scrolling,Fix sidebar position when scrolling,LouCypher,https://greasyfork.org/zh-CN/scripts/25
 26,MozillaZine Forums - Find user posts,"Add links to find user""s posts",LouCypher,https://greasyfork.org/zh-CN/scripts/26
 30,AMO: Randomize Contribute Button,Randomize 'Contribute' button on Mozilla Add-ons,LouCypher,https://greasyfork.org/zh-CN/scripts/30
+31,Show Password onFocus,Show password when focus on password field,LouCypher,https://greasyfork.org/zh-CN/scripts/31
+32,Show Password onMouseOver,Show password when mouseover on password field,LouCypher,https://greasyfork.org/zh-CN/scripts/32
+33,Wikipedia+1,Add Google+1 button to Wikipedia articles,LouCypher,https://greasyfork.org/zh-CN/scripts/33
+34,Gendou.com - Sub-Forums Menu,Add new menu for easy navigating between sub-forums,LouCypher,https://greasyfork.org/zh-CN/scripts/34
+35,Wallpaperhere.com - Add Pinterest button,Add Pinterest button on wallpaperhere.com,LouCypher,https://greasyfork.org/zh-CN/scripts/35
+39,Wallpaperfox.com - Add Pinterest button,Add Pinterest button on wallpaperfox.com,LouCypher,https://greasyfork.org/zh-CN/scripts/39
+42,Disable modal dialogs for automation,"Disables things like alert, confirm, and prompt - useful for visiting sites with an automated tool like iMacros",JasonBarnabe,https://greasyfork.org/zh-CN/scripts/42
+44,Marktplaats Exchanger,Exchange Marktplaats.nl,jerone,https://greasyfork.org/zh-CN/scripts/44
+45,Dakar Extender,Highlight riders by certain country in standings lists.,jerone,https://greasyfork.org/zh-CN/scripts/45
+47,April Fools CSS,Some CSS april fools,jerone,https://greasyfork.org/zh-CN/scripts/47
+48,MaximumPC Troll Remover,Remove trolls from comments to articles posted on www.maximumpc.com,RandomInt,https://greasyfork.org/zh-CN/scripts/48
+49,Userscripts-mirror WideScreen Dark and Gray V.10.60,Custom Widescreen CSS theme for userscripts.org v.10.5,decembre,https://greasyfork.org/zh-CN/scripts/49
+50,Userstyles / Greasy Fork Enhancer Dark-Grey v.238,Custom Widescreen CSS theme for  and,decembre,https://greasyfork.org/zh-CN/scripts/50
+52,PopupX - Flickr Tweak (Only Tiny Design Tweak for Flickr + Autopager support),"browse image(embeded a link) by a Popup Image Viewer ( Original version by NIO, Tweaked Design version by decembre)",decembre,https://greasyfork.org/zh-CN/scripts/52
+54,Github Gist Share,"Share your GitHub Gist to Twitter, Dabblet, Bl.ocks & as userscript.",jerone,https://greasyfork.org/zh-CN/scripts/54
+64,Github Pull Request From Link,Make pull request branches linkable,jerone,https://greasyfork.org/zh-CN/scripts/64
+65,Horizon TV Fixer,Improves the Horizon / Ziggo TV Gids by extending the functionality and the layout of the site.,jerone,https://greasyfork.org/zh-CN/scripts/65
+66,Vkontakte chat translator,Automatic translation of incoming and outgoing messages on the site VKontakte. Translation service - Google Translate.,Kilowatt,https://greasyfork.org/zh-CN/scripts/66
+68,Delete white background of images,Replace white pixels of all images with transparent. Requires Canvas support.,Kilowatt,https://greasyfork.org/zh-CN/scripts/68
+77,Github Commit Diff,Adds button to show diff (or patch) file for commit,jerone,https://greasyfork.org/zh-CN/scripts/77
+88,r24NKom,Włącza komentarze inline (bez wyskakującego okienka) na release24.pl,opsomh,https://greasyfork.org/zh-CN/scripts/88
+89,Userscripts.org better view,Better view for userscripts.org,ich01,https://greasyfork.org/zh-CN/scripts/89
+90,AdRemover,Enjoy the web without ads!,ich01,https://greasyfork.org/zh-CN/scripts/90
+91,YouTube Clean Feed,Removes the recommended videos by YouTube,ich01,https://greasyfork.org/zh-CN/scripts/91
+92,Write a note!,You can edit a note on all websites!,ich01,https://greasyfork.org/zh-CN/scripts/92
+95,Kaskus Mobile Quick Reply,Provide Quick Reply on Kaskus Mobile,Idx,https://greasyfork.org/zh-CN/scripts/95
+97,Maknyos AutoIn,"Auto click to a link mostly for download purpose, iframe killer. Supported hosts: zippyshare, mediafire, sendspace, uptobox, cloud.mail.ru, adf.ly, and many more...",Idx,https://greasyfork.org/zh-CN/scripts/97
+98,Indowebster GET Link,(Indowebster) automatically get download link,Idx,https://greasyfork.org/zh-CN/scripts/98
+99,cendoldarkbb-qrfixer,darkbb-fixer (phpBB),Idx,https://greasyfork.org/zh-CN/scripts/99
+100,google-code-rawfile,get google code revision rawfile-link,Idx,https://greasyfork.org/zh-CN/scripts/100
+105,Replace Chrome New Tab,Replaces Chrome 33 New Tab with apps list page,Owyn,https://greasyfork.org/zh-CN/scripts/105
+106,TvFedor RuTracker RSS button,adds RSS TvFedor button to RuTracker.org,Owyn,https://greasyfork.org/zh-CN/scripts/106
+107,DeviantArt direct download image,"Makes ""download image"" open in same window not in new little one",Owyn,https://greasyfork.org/zh-CN/scripts/107
+108,pixiv direct original image link,On page with thumbnails of all works makes thumbnails link to actual fullsize images,Owyn,https://greasyfork.org/zh-CN/scripts/108
+110,Center Image & Video,Improved controls for images & videos opened directly with your browser - hotkeys & resizing & visuals,Owyn,https://greasyfork.org/zh-CN/scripts/110
+111,"No Pop-Ups, only new tabs","Turns off the ability to open new windows, opens tabs instead",Owyn,https://greasyfork.org/zh-CN/scripts/111
+115,Tieba Quotor,贴吧引用,Gerald,https://greasyfork.org/zh-CN/scripts/115
+116,Tieba Float Movable,贴吧可移动悬浮窗,Gerald,https://greasyfork.org/zh-CN/scripts/116
+117,Tieba Advanced,贴吧增强 - Gerald倾情打造,Gerald,https://greasyfork.org/zh-CN/scripts/117
+118,Tieba Utilities,百度贴吧依赖脚本（寂寞的原子的公共库）,Gerald,https://greasyfork.org/zh-CN/scripts/118
+119,Baidu Multiuser,百度马甲切换,Gerald,https://greasyfork.org/zh-CN/scripts/119
+120,Tieba Imagizer,贴吧图化 - Gerald倾情打造,Gerald,https://greasyfork.org/zh-CN/scripts/120
+121,Tieba Multiuser,百度贴吧马甲切换,Gerald,https://greasyfork.org/zh-CN/scripts/121
+122,Tieba Sign,贴吧签到,Gerald,https://greasyfork.org/zh-CN/scripts/122
+123,Tieba Fix for Opera,Opera贴吧修复 - Gerald倾情打造,Gerald,https://greasyfork.org/zh-CN/scripts/123
+125,"Bypass Wait, Code, & Login For Chrome","Remove verify code, login requirement, counting down... and more!",Jixun.Moe,https://greasyfork.org/zh-CN/scripts/125
+130,Portable MD5 Function,Usage: hex_md5 ('String');,Jixun.Moe,https://greasyfork.org/zh-CN/scripts/130
+143,4399 Flash Real address finder / 4399 Flash 真实地址解析,Replace the link of button Download.,Jixun.Moe,https://greasyfork.org/zh-CN/scripts/143
+144,Tieba Common,Common JS for Baidu scripts by Gerald,Gerald,https://greasyfork.org/zh-CN/scripts/144
+146,TiebaUsualSmilier,百度贴吧常用表情替换,congxz6688,https://greasyfork.org/zh-CN/scripts/146
+147,tieba_quote,百度贴吧引用,congxz6688,https://greasyfork.org/zh-CN/scripts/147
+148,tieba_hide_someone,屏蔽某些人的帖子,congxz6688,https://greasyfork.org/zh-CN/scripts/148
+149,Vod_Xunlei_resizeVideoWindow,迅雷云播视窗调节,congxz6688,https://greasyfork.org/zh-CN/scripts/149
+150,tieba_faceText,百度贴吧颜文字,congxz6688,https://greasyfork.org/zh-CN/scripts/150
+151,tiebagogo,常逛的贴吧快速切换,congxz6688,https://greasyfork.org/zh-CN/scripts/151
+152,tiebaAllsign,贴吧集中签到,congxz6688,https://greasyfork.org/zh-CN/scripts/152
+153,tieba_At_Ta,百度贴吧@它,congxz6688,https://greasyfork.org/zh-CN/scripts/153
+154,tieba_image_resize,百度贴吧大图还原,congxz6688,https://greasyfork.org/zh-CN/scripts/154
+156,tieba_filter_someone,贴吧循环封,congxz6688,https://greasyfork.org/zh-CN/scripts/156
+158,tieba_float_editor,百度贴吧悬浮编辑窗,congxz6688,https://greasyfork.org/zh-CN/scripts/158
+159,Tieba_ACFace,百度贴吧acFun表情修改版,congxz6688,https://greasyfork.org/zh-CN/scripts/159
+160,tieba_hide_someword,屏蔽包含特定关键字的主题,congxz6688,https://greasyfork.org/zh-CN/scripts/160
+161,tiebaMyLike,我喜欢的贴吧一览,congxz6688,https://greasyfork.org/zh-CN/scripts/161
+162,jieke_forum_thanks_by_oneclick,捷克论坛一键感谢,congxz6688,https://greasyfork.org/zh-CN/scripts/162
+164,hupu_faceText,虎扑颜文字输入,congxz6688,https://greasyfork.org/zh-CN/scripts/164
+166,141 images & cwebgame,让141 images和cwebgame的图片不再缩小显示,congxz6688,https://greasyfork.org/zh-CN/scripts/166
+168,Google picasa,从picasa获取图片共享链接,congxz6688,https://greasyfork.org/zh-CN/scripts/168
+169,Google picasa,get imageUrl from picasa in English,congxz6688,https://greasyfork.org/zh-CN/scripts/169
+170,cmded_smilies_simple,cmded自定制分页化表情,congxz6688,https://greasyfork.org/zh-CN/scripts/170
+171,Github News Feed Filter,Add filters for GitHub homepage news feed items,jerone,https://greasyfork.org/zh-CN/scripts/171
+173,Greasy Fork - More Install button,"Add install button on script Code, Versions and Feedback page.",LouCypher,https://greasyfork.org/zh-CN/scripts/173
+174,Greasy Fork - Scripts Links,Add more scripts' links on scripts listing.,LouCypher,https://greasyfork.org/zh-CN/scripts/174
+175,Baidu x Stylish Fix,Restore Stylish styles from deletion on baidu.com,MapleRecall,https://greasyfork.org/zh-CN/scripts/175
+179,GitHub - CoderStats,Add link to CoderStats http://coderstats.net//,LouCypher,https://greasyfork.org/zh-CN/scripts/179
+180,Greasy Fork - Script Counter,Add number of scripts on user's profile page,LouCypher,https://greasyfork.org/zh-CN/scripts/180
+182,flightradar24.com No Timeout,Stops flightradar24.com disabling your session after 30 mins,takeyourhatoff,https://greasyfork.org/zh-CN/scripts/182
+183,Add-ons Manager - Scriptish Screenshot,[Scriptish only] Show screenshot on Scriptish user script page in Add-ons Manager.,LouCypher,https://greasyfork.org/zh-CN/scripts/183
+184,osu! select code block,Highlights Code Blocks,s4nji,https://greasyfork.org/zh-CN/scripts/184
+185,Monster Twitch,Stretches stream to max width and hides left navigation bar with an Monster toggle that's to the right of the volume rocker,Aleks 2,https://greasyfork.org/zh-CN/scripts/185
+186,Monster JTV,Get the full screen,Aleks 2,https://greasyfork.org/zh-CN/scripts/186
+187,Twitch.TV Background-B-Gone,Removes channel backgrounds only.,Aleks 2,https://greasyfork.org/zh-CN/scripts/187
+188,Side-Reddit,Simple side-bar toggle for Reddit,Aleks 2,https://greasyfork.org/zh-CN/scripts/188
+189,Twitch.TV Above The Chat Bar Hider,Removes annoying top bar above chat that displays the buttons 'Chat' & 'Videos',Aleks 2,https://greasyfork.org/zh-CN/scripts/189
+190,Space.com Floating Header Bar Removal Script,Removes floating bar when you scroll down to browse the articles,Aleks 2,https://greasyfork.org/zh-CN/scripts/190
+191,Woot Woot,Fits video to screen,Aleks 2,https://greasyfork.org/zh-CN/scripts/191
+193,OFFLINE ALERT,"When in Work Offline Mode, the webpage you are on will display OFFLINE to alert you that you are in Offline Mode.",BarbieBarb,https://greasyfork.org/zh-CN/scripts/193
+194,Title Manager,"Manage page titles per (sub)domain. On any website, click Greasemonkey > User Script Commands > Title Manager's menu.",grom,https://greasyfork.org/zh-CN/scripts/194
+195,Omerta Beyond,Omerta Beyond 2.0 (We're back to reclaim the throne ;)),vBm,https://greasyfork.org/zh-CN/scripts/195
+196,center page layout // Seiten-Layout zentrieren,Useful for displaying pages with a native left-aligned or full screed-width layout on a wide screen.,cvsdnx,https://greasyfork.org/zh-CN/scripts/196
+197,Floating Table of Contents,"Makes the Wikipedia Table of Contents (TOC) float at a fixed position and not scroll with the rest of the page. The position can be customized with the ""left:"" and ""top:"" parameters (which define in pixels the distance to the left and top border, respectively). Works for most Mediawiki-powered wiki websites.",cvsdnx,https://greasyfork.org/zh-CN/scripts/197
+198,Offline Indicator,Add icon to web page on bottom right as indicator when in offline mode.,LouCypher,https://greasyfork.org/zh-CN/scripts/198
+199,My Greasy Fork,For personal use.,LouCypher,https://greasyfork.org/zh-CN/scripts/199
+204,Blok script Telkom Speedy,[Firefox only] Blok script yang diinjeksi oleh Telkom @(#*!& Speedy (PT Telekomunikasi Indonesia Tbk).,LouCypher,https://greasyfork.org/zh-CN/scripts/204
+205,Howrse onMouseDown Menus,Turns the 5 onmouseover menus into onmousedown menus,daexion,https://greasyfork.org/zh-CN/scripts/205
+206,Howrse BannerAd Border Removal,Removes the border for the Banner Ad on Howrse.,daexion,https://greasyfork.org/zh-CN/scripts/206
+210,Hide WtF and Trending on Twitter,"Hides the WtF (Who to Follow, abbreviation theirs) and Trending modules on the side. Made this because however adblock hides elements leaves an ugly gap.",Flaeme,https://greasyfork.org/zh-CN/scripts/210
+212,HowrseSireDamLinks,"Adds links to the sire and dam of the horse you are looking at that go to the page you can see, if you own that horse.  Howrse will redirect it to the public page if you don't.",daexion,https://greasyfork.org/zh-CN/scripts/212
+213,searchEngineJumpCE-modify by ted423,方便的在各个引擎之间跳转。可自定义搜索列表的 NLF 修改版。,ted423,https://greasyfork.org/zh-CN/scripts/213
+214,Twitter profile replies hider,Hide replies on Twitter profiles,jerone,https://greasyfork.org/zh-CN/scripts/214
+215,Twitter profile retweets hider,Hide retweets on Twitter profiles,jerone,https://greasyfork.org/zh-CN/scripts/215
+217,Google Chrome - Set New Tab,Set a specified URL as new tab page on Google Chrome.,LouCypher,https://greasyfork.org/zh-CN/scripts/217
+218,网页强制复制,右键强力解锁，可以复制一些特殊网站的文字,无法诉说的吟荡,https://greasyfork.org/zh-CN/scripts/218
+219,WaniKani Turtle Total,"This will optionally add the cumulative turtle counts for each category to the srs-progress display. It will also mark increases and decreases in all the counts since the last display (for example, right after a review session.)  By RhosVeedcy.",RhosVeedcy,https://greasyfork.org/zh-CN/scripts/219
+220,civitas daily work report,civitas 每日工作後，再次點擊可查看工作紀錄,shyangs,https://greasyfork.org/zh-CN/scripts/220
+226,wasabii登入頁密碼框可打字,wasabii旗下網頁遊戲，登入頁密碼框改為可打字狀態,shyangs,https://greasyfork.org/zh-CN/scripts/226
+227,HungYeah-Big5search,在洪爺搜尋框，將中文字轉為Big5編碼，搜尋,shyangs,https://greasyfork.org/zh-CN/scripts/227
+228,香港賽馬會,香港賽馬會圖片連結修正,shyangs,https://greasyfork.org/zh-CN/scripts/228
+230,光輝之街,使光輝之街圖片正確顯示,shyangs,https://greasyfork.org/zh-CN/scripts/230
+231,go out Mozest directly,點擊直接打開 Mozest 論壇未經驗證的外部連結,shyangs,https://greasyfork.org/zh-CN/scripts/231
+232,WaniKani Lesson Ordering II,"This allows you to sort the items in your WaniKani lessons, either putting the Radicals and Kanji first, or the Vocabulary first. By RhosVeedcy, based on scripts originally by Alucardeck.",RhosVeedcy,https://greasyfork.org/zh-CN/scripts/232
+233,WaniKani LevelUP Celebrator,"This will display a ""level-up"" notification on your WK Dashboard after you level up.  You can customize the image and text of the display.  Other achievements are also noted.  By RhosVeedcy.",RhosVeedcy,https://greasyfork.org/zh-CN/scripts/233
+235,WaniKani Level Duration,This will display the number of days since your last level-up. Two display options are offered.  By RhosVeedcy.,RhosVeedcy,https://greasyfork.org/zh-CN/scripts/235
+236,Y-marker,Sets up keyboard shortcuts for placing bookmarks and navigation inside webpage.,trespassersW,https://greasyfork.org/zh-CN/scripts/236
+237,CustomGinzaWatch,ニコニコ動画:GINZAの動画プレイヤーのUIをお手軽カスタマイズ。,hgaragght,https://greasyfork.org/zh-CN/scripts/237
+238,4pdaQmsRtc,Добавляет возможность передачи файлов напрямую между пользователями на сайте 4pda.ru,Kilowatt,https://greasyfork.org/zh-CN/scripts/238
+239,Twitch Chroma Chat,Chroma Key Style Background for Twitch Chat,Aleks 2,https://greasyfork.org/zh-CN/scripts/239
+240,Test @requires with same name #1,Testing to see what happens if two @requires have the same name,JasonBarnabe,https://greasyfork.org/zh-CN/scripts/240
+241,Test @requires with same name #2,Testing to see what happens if two @requires have the same name,JasonBarnabe,https://greasyfork.org/zh-CN/scripts/241
+252,Inoreader: enlarge images,"Replaces small Blogger, Flickr, Tumblr, and NASA Earth Observatory feed images with larger ones in Inoreader.",joshg253,https://greasyfork.org/zh-CN/scripts/252
+253,Inoreader: enlarge images,"Replaces small Blogger, Flickr, Tumblr, and NASA Earth Observatory feed images with larger ones in Inoreader.",joshg253,https://greasyfork.org/zh-CN/scripts/253
+254,Inoreader: enlarge images,"Replaces small Blogger, Flickr, Tumblr, and NASA Earth Observatory feed images with larger ones in Inoreader.",joshg253,https://greasyfork.org/zh-CN/scripts/254
+255,Inoreader: enlarge images,"Replaces small Blogger, Flickr, Tumblr, and NASA Earth Observatory feed images with larger ones in Inoreader.",joshg253,https://greasyfork.org/zh-CN/scripts/255
+256,LiveLeak: stretch video,"stretch the videos on LiveLeak, hide right column",joshg253,https://greasyfork.org/zh-CN/scripts/256
+257,Chess.com Favicon Alerts,Add number of games waiting to favicon,JynxZero,https://greasyfork.org/zh-CN/scripts/257
+258,Don't Read Below the Line,"Script intended to reduce misanthropic feelings, by hiding the comments section on some UK newspapers.",JynxZero,https://greasyfork.org/zh-CN/scripts/258
+259,Greasy Fork - Search other sites,Add search option to search on Userscripts.org and *cough* OpenUserJS.org.,LouCypher,https://greasyfork.org/zh-CN/scripts/259
+260,niconico リンクを修正,Replaces JavaScript links with HTML links in Niconico. Also adds “Reuse” button also to also reserved broadcasts on the Nico Live My Page.,100の人,https://greasyfork.org/zh-CN/scripts/260
+262,pixiv タグクラウドからピックアップ,"Restores the tag cloud (illustration or novel tags column), and if there are tags attached to a work, this script brings those tags to the top of the tag cloud (illustration tags column).",100の人,https://greasyfork.org/zh-CN/scripts/262
+264,Drag & DropZones +,[userChromeJS] Drag selected character strings or image and drop to the semitransparent box displayed on web page to open search result.,100の人,https://greasyfork.org/zh-CN/scripts/264
+265,pixiv 検索オプションを追加,This is a search option add-on script for pixiv. Enables you to select search mode by radio buttons (legacy feature).,100の人,https://greasyfork.org/zh-CN/scripts/265
+266,pixiv コメントを展開,Expands pixiv comments. Always shows all comments (and replies).,100の人,https://greasyfork.org/zh-CN/scripts/266
+267,Bug 667607 (Fill the tab bar after closing a tab),[userChromeJS] Resize tabs to fill the tab bar immediately after closing a tab (Firefox 4 feature).,100の人,https://greasyfork.org/zh-CN/scripts/267
+268,Append Tag Searching Tub,"Adds “Keyword”, “Tags”, “My List”, “Images” and “Live” search tabs to all of the Niconico search boxes.",100の人,https://greasyfork.org/zh-CN/scripts/268
+271,HTMLダイアログ無効化,Always opens JavaScript links in new tab in current window instead of new window.,100の人,https://greasyfork.org/zh-CN/scripts/271
+272,ニコ生アラート（簡）,"Alerts you to live streams that match your search. Supports these sites:  FC2 Live, SHOWROOM, Stickam JAPAN!, TwitCasting, Twitch, Niconico Live, Himawari Stream, FRESH! (AbemaTV), Whowatch, Periscope (Twitter)",100の人,https://greasyfork.org/zh-CN/scripts/272
+274,Google 検索窓を複製,Also shows the search box to the page bottom.,100の人,https://greasyfork.org/zh-CN/scripts/274
+275,Clone Turning Page Button in nicovideo,"Also shows the pagination on the top of Nico Live search result, Lives by Category page, and Nico Video user page.",100の人,https://greasyfork.org/zh-CN/scripts/275
+277,Eishockeyforum - Forennavigation - Dashboard,Fügt der Navigationsleiste am Dashboard die fehlenden Links und Knöpfe hinzu.,Elbart,https://greasyfork.org/zh-CN/scripts/277
+278,Eishockeyforum - Zitate,"Versteckt überflüssige Zitate, die aber wieder einblendbar sind.",Elbart,https://greasyfork.org/zh-CN/scripts/278
+279,Eishockeyforum - Ignorefunktion,Versieht das Forum mit einer einstellbaren Ignorefunktion.,Elbart,https://greasyfork.org/zh-CN/scripts/279
+280,HTML5 for MoeFM,萌否电台 HTML5 脚本,864907600cc,https://greasyfork.org/zh-CN/scripts/280
+281,CC Code,CC Code 是一个贴吧扩展程序/脚本，功能类似于“度伴娘”中的贴吧小工具。,864907600cc,https://greasyfork.org/zh-CN/scripts/281
+282,Tieba Preload,贴吧预加载，自动加载下一页内容，同时附带消灭贴吧自带 Lazy Load 功能,864907600cc,https://greasyfork.org/zh-CN/scripts/282
+283,Baidu Zhidao Thread Notification,在贴吧对来自百度知道的贴子进行提醒和删除。,864907600cc,https://greasyfork.org/zh-CN/scripts/283
+284,Moe-FM Fav-Songs Random Play,"随机播放萌否电台中收藏的音乐的小脚本(￣▽￣"")……",864907600cc,https://greasyfork.org/zh-CN/scripts/284
+285,伪·转换贴吧 ed2k 链接,将贴吧里提醒“贴吧安卓客户端可直接观看影片”的 ed2k 链接转换为可点击下载的链接……,864907600cc,https://greasyfork.org/zh-CN/scripts/285
+286,Moe-FM Downloader,Download music when listening to the music on Moe.FM,864907600cc,https://greasyfork.org/zh-CN/scripts/286
+287,Tieba Quick Post,Press Ctrl + Enter to post a thread / comment on Tieba.,864907600cc,https://greasyfork.org/zh-CN/scripts/287
+288,SearchPreview for Baidu,SearchPreview for Baidu 伪百度搜索预览，提供一站式服务，无页面转跳，适合快速搜索资料。Re-edit by 864907600cc,864907600cc,https://greasyfork.org/zh-CN/scripts/288
+289,Tieba Template,贴吧模板,864907600cc,https://greasyfork.org/zh-CN/scripts/289
+290,WaniKani Review Search,Do a WaniKani Search on your review answer.  By gth99.,RhosVeedcy,https://greasyfork.org/zh-CN/scripts/290
+291,查看发帖,查看百度贴吧某用户在某贴吧或者全部贴吧的发言,文科,https://greasyfork.org/zh-CN/scripts/291
+292,My Novel Reader,小说阅读脚本，统一阅读样式，内容去广告、修正拼音字、段落整理，自动下一页,ywzhaiqi,https://greasyfork.org/zh-CN/scripts/292
+296,No noticeTitleFlash on BBS,卡饭论坛去除标题栏闪烁提醒,ywzhaiqi,https://greasyfork.org/zh-CN/scripts/296
+299,quick-view-douban,see douban book movie music in every webpage by selecting text,ywzhaiqi,https://greasyfork.org/zh-CN/scripts/299
+300,Douban Download Search,增加豆瓣电影、图书的下载搜索链接,ywzhaiqi,https://greasyfork.org/zh-CN/scripts/300
+305,userscripts 只显示中文,在 userscripts、greasyfork 脚本页面只显示中文脚本，支持 AutoPager 和其它翻页脚本。,ywzhaiqi,https://greasyfork.org/zh-CN/scripts/305
+308,Reddit visited link remover,hides links you already visited on reddit and offers keyboard navigatin,sxe,https://greasyfork.org/zh-CN/scripts/308
+309,Light Rising Tweaks,Some minor tweaks for Light Rising browser game,Kiwimage,https://greasyfork.org/zh-CN/scripts/309
+310,Nexus Clash Interface Tweaks,Various Tweaks to the Nexus Clash Browser Game Interface,Kiwimage,https://greasyfork.org/zh-CN/scripts/310
+311,Light Rising AutoFuel,Adds an 'Add Fuel 10x' button to Light Rising Browser Game,Kiwimage,https://greasyfork.org/zh-CN/scripts/311
+312,Light Rising Craft Lock,Remember a craft or build option. Handy when getting components.,Kiwimage,https://greasyfork.org/zh-CN/scripts/312
+313,Nexus Clash Stat Bars,Adds bars to AP HP and MP,Kiwimage,https://greasyfork.org/zh-CN/scripts/313
+314,Nexus Clash Recall Last Charge Attack,For Gunwizards. Rememebers last attack power up for arcane marksman,Kiwimage,https://greasyfork.org/zh-CN/scripts/314
+315,Nexus Clash Add Drop Item Safety Check Box,Make it a tad harder to drop things,Kiwimage,https://greasyfork.org/zh-CN/scripts/315
+316,Nexus Clash Colour Messages,Message colour coding for Nexus Clash Browser Game,Kiwimage,https://greasyfork.org/zh-CN/scripts/316
+317,Nexus Clash Forums Newspaper Wiki Text,Trys to find and convert forum posts containing newspaper leaderboards to wiki ready text,Kiwimage,https://greasyfork.org/zh-CN/scripts/317
+318,Shintolin Tweaks,Tweaks for Shintolin Browser Game,Kiwimage,https://greasyfork.org/zh-CN/scripts/318
+319,Nexus Clash Newspaper Wiki Text,Adds button to newspaper view thats adds wiki ready version,Kiwimage,https://greasyfork.org/zh-CN/scripts/319
+320,Light Rising Crafting Checker,Shows if any crafting tools or ingredients are missing,Kiwimage,https://greasyfork.org/zh-CN/scripts/320
+321,Nexus Clash Default Prayer is for Magic,Makes default prayer be for magic,Kiwimage,https://greasyfork.org/zh-CN/scripts/321
+322,Light Rising Remember Number of Items,AutoSelects value used for number of items for Give/Drop/Take actions,Kiwimage,https://greasyfork.org/zh-CN/scripts/322
+323,Light Rising AutoQuarry,Adds a Quarry 10X button.,Kiwimage,https://greasyfork.org/zh-CN/scripts/323
+324,Light Rising Remember Last Weapon,Remembers last weapon used and autoselects it.,Kiwimage,https://greasyfork.org/zh-CN/scripts/324
+325,Shintolin Remember Last Weapon,Remembers last weapon used and autoselects it.,Kiwimage,https://greasyfork.org/zh-CN/scripts/325
+326,Shintolin Building Checker,Shows if any building tools or components are missing,Kiwimage,https://greasyfork.org/zh-CN/scripts/326
+327,Shintolin Crafting Checker,Shows if any crafting tools or ingredients are missing,Kiwimage,https://greasyfork.org/zh-CN/scripts/327
+328,NexusClashReadableInfusion,Makes infusion numbers readable,Kiwimage,https://greasyfork.org/zh-CN/scripts/328
+329,Nexus Clash Remove Spell Gem Color,In the faction safe removes the color from spell gems and resorts them alphabetically,Kiwimage,https://greasyfork.org/zh-CN/scripts/329
+330,Shintolin AutoSearch,Adds Search 10x button,Kiwimage,https://greasyfork.org/zh-CN/scripts/330
+331,Light Rising Anti Wall Climbing,Stops accidental wall climbing.,Kiwimage,https://greasyfork.org/zh-CN/scripts/331
+332,Light Rising Building Checker,Shows if any building tools or components are missing,Kiwimage,https://greasyfork.org/zh-CN/scripts/332
+333,Light Rising AutoSearch,Adds 'Search 10x' button,Kiwimage,https://greasyfork.org/zh-CN/scripts/333
+334,Shartak Rearrange Inventory Lite,rearranges a few less inventory items,Kiwimage,https://greasyfork.org/zh-CN/scripts/334
+335,Shartak Rearrange Inventory,rearranges a few inventory items,Kiwimage,https://greasyfork.org/zh-CN/scripts/335
+336,Markdown textarea,Add Markdown convert button to textarea,mozillazg,https://greasyfork.org/zh-CN/scripts/336
+337,Better Shanbay,Enhance shanbay.com,mozillazg,https://greasyfork.org/zh-CN/scripts/337
+338,Shanbay message assistant,Shanbay 短信助手,mozillazg,https://greasyfork.org/zh-CN/scripts/338
+340,Popup Search,Popup search box and translate button (etc) for selected texts,lkytal,https://greasyfork.org/zh-CN/scripts/340
+342,Text To link,Turn plain text URLs into clickable links,lkytal,https://greasyfork.org/zh-CN/scripts/342
+343,Open Discuz Link in new tab,"Discuz论坛链接默认新链接打开,支持autopager和Super_preloader等",lkytal,https://greasyfork.org/zh-CN/scripts/343
+344,Google Image Search Context Menu,Add Search Image context menu,lkytal,https://greasyfork.org/zh-CN/scripts/344
+345,Tieba Enhance,"贴吧小尾巴, 坟贴提醒, 去除跳转等功能",lkytal,https://greasyfork.org/zh-CN/scripts/345
+348,RTCMultiConnection,Library for comfortable using WebRTC technology.,Kilowatt,https://greasyfork.org/zh-CN/scripts/348
+349,qidian download,方便在html5起点站下载小说,文科,https://greasyfork.org/zh-CN/scripts/349
+350,iZhihu,知乎插件,unogz,https://greasyfork.org/zh-CN/scripts/350
+351,Eishockeyforum - Dislike-Knopf,Reaktiviert den Dislike-Knopf,Elbart,https://greasyfork.org/zh-CN/scripts/351
+352,Eishockeyforum - Links in alten Zitaten,Repariert die alten Links in den Zitaten,Elbart,https://greasyfork.org/zh-CN/scripts/352
+353,HowrseHorseImageSwap-Frieisan,Swaps the Friesian V4 default coat for the V3 default coat,daexion,https://greasyfork.org/zh-CN/scripts/353
+354,XuanFengEx,QQ旋风网页版离线下载增强,rhyzx,https://greasyfork.org/zh-CN/scripts/354
+355,tieba_emotion_helper,贴吧自定义表情批量修改,文科,https://greasyfork.org/zh-CN/scripts/355
+356,Eishockeyforum - Gelöscht von meinem Userscript mit Tapa-Ex,"Entfernt die nutzlosen ""Gesendet von""-Texte",Elbart,https://greasyfork.org/zh-CN/scripts/356
+357,tiebaOldVersion,自动返回旧版贴吧,文科,https://greasyfork.org/zh-CN/scripts/357
+364,Camp-Firefox.de - Ignorefunktion,Ignorefunktion für camp-firefox.de,Elbart,https://greasyfork.org/zh-CN/scripts/364
+365,Batoto MyFollows,Filter your follows from comic search; info button and sorting in the old follows page; links between Batoto-MU-Mal and other features.,MadHero,https://greasyfork.org/zh-CN/scripts/365
+366,Howrse Swap all v4 >> v3 Default Coats,Swaps all of the v4 default coats for the v3 default coats,daexion,https://greasyfork.org/zh-CN/scripts/366
+368,Gotoquiz refresh posts.,Refresh the posts on gotoquiz forums,OswaldTheHatter,https://greasyfork.org/zh-CN/scripts/368
+370,Stop Overzealous Embedding,Tries to turn embedded Youtube videos into links,Connor Behan,https://greasyfork.org/zh-CN/scripts/370
+371,Kill Floating Bars,Stops elements from following you as you scroll down the page,Connor Behan,https://greasyfork.org/zh-CN/scripts/371
+372,Expand Wikipedia Acronyms,Provides a better tooltip for a link to a Wikipedia page about an acronym,Connor Behan,https://greasyfork.org/zh-CN/scripts/372
+373,Kill Typeahead Search,Removes drop down lists that try to second guess the user,Connor Behan,https://greasyfork.org/zh-CN/scripts/373
+374,Twitch Plays Pokemon - Command Filtering & Spamming Tool,Adds tools to your chatbox for spamming chat and filtering out commands from chat.,mugwhump,https://greasyfork.org/zh-CN/scripts/374
+375,Newegg ComboEgger,Automatically retrieves and displays egg ratings for all products in a Newegg ComboBundle page.,JamesSwift,https://greasyfork.org/zh-CN/scripts/375
+380,Scrying Workshop Reworked,UX Improvements for Flight Rising's Scrying Workshop and Search,UXRising,https://greasyfork.org/zh-CN/scripts/380
+385,Swefilmer,"Wide player, and store layout to next time you change. Navigate faster to Next TV-Series or the previous one. Easy to see where you are. (colored)",magnus 2,https://greasyfork.org/zh-CN/scripts/385
+386,waitUntilExists,"Is a small one function script, my most use one I use..",magnus 2,https://greasyfork.org/zh-CN/scripts/386
+387,HTML5 YouTube F key fullscreen,Make YouTube's HTML5 player go fullscreen when pressing F,DaVince,https://greasyfork.org/zh-CN/scripts/387
+388,HTML5 video auto-pause,Auto-pause any HTML5 videos. Will still preload.,DaVince,https://greasyfork.org/zh-CN/scripts/388
+398,TMD filtru torrente,ascunde torrentele care nu le doresti,drakulaboy,https://greasyfork.org/zh-CN/scripts/398
+399,Reddit-Upvoter,Upvote all links/comments on the page,drakulaboy,https://greasyfork.org/zh-CN/scripts/399
+405,Wall Manager Sidekick (Farmville),Assists Wall Manager with Farmville posts,thehumblesupremo,https://greasyfork.org/zh-CN/scripts/405
+406,Mutik's DotD Script,Fork of ForTheGoodOfAll DotD script with new look and strongly optimized js code,mutik,https://greasyfork.org/zh-CN/scripts/406
+407,WM Common Library,"A collection of useful functions and objects, some of which are specific to the Wall Manager family of scripts.",thehumblesupremo,https://greasyfork.org/zh-CN/scripts/407
+408,WM Debug Console,Creates a debug console that slides up from the bottom right of the screen,thehumblesupremo,https://greasyfork.org/zh-CN/scripts/408
+409,JS Forms Library B,Encapulates and extends many HTML forms elements.,thehumblesupremo,https://greasyfork.org/zh-CN/scripts/409
+410,WM Config Interface,Creates a configuration interface which allows users to set and get options easily.,thehumblesupremo,https://greasyfork.org/zh-CN/scripts/410
+411,WM Graph API Interface (Beta Branch),"Creates a low-access, read-only interface to the FB Graph API.",thehumblesupremo,https://greasyfork.org/zh-CN/scripts/411
+412,FB Wall Manager,Manages Wall Posts for Various FB Games,thehumblesupremo,https://greasyfork.org/zh-CN/scripts/412
+416,WM Common Library,"A collection of useful functions and objects, some of which are specific to the Wall Manager family of scripts.",Merricksdad,https://greasyfork.org/zh-CN/scripts/416
+417,WM Debug Console,Creates a debug console that slides up from the bottom right of the screen,Merricksdad,https://greasyfork.org/zh-CN/scripts/417
+418,JS Forms Library B,Encapulates and extends many HTML forms elements.,Merricksdad,https://greasyfork.org/zh-CN/scripts/418
+419,WM Config Interface,Creates a configuration interface which allows users to set and get options easily.,Merricksdad,https://greasyfork.org/zh-CN/scripts/419
+420,WM Graph API Interface (Beta Branch),"Creates a low-access, read-only interface to the FB Graph API.",Merricksdad,https://greasyfork.org/zh-CN/scripts/420
+421,FB Wall Manager,Manages Wall Posts for Various FB Games,Merricksdad,https://greasyfork.org/zh-CN/scripts/421
+430,Tieba_Insert_MusicLink,贴吧自定义插入mp3链接,文科,https://greasyfork.org/zh-CN/scripts/430
+432,楼中楼回复自动加@,百度贴吧楼中楼回复自动加上@,文科,https://greasyfork.org/zh-CN/scripts/432
+433,Nico HeatMap,コメントの盛り上がり状態をシンプルにグラフ表示。 GINZA用,segabito,https://greasyfork.org/zh-CN/scripts/433
+434,SmartNicorepo,ニコレポの「投稿」以外をデフォルトで折りたたむ,segabito,https://greasyfork.org/zh-CN/scripts/434
+435,Nicorenizer,動画クリックで一時停止/再開 ダブルクリックでフルスクリーン切換え,segabito,https://greasyfork.org/zh-CN/scripts/435
+436,WatchWatch,GINZAwatchに時計復活。 ついでに過去ログ時間選択も使いやすくする,segabito,https://greasyfork.org/zh-CN/scripts/436
+437,KeepScrollPosition,マイページでマイリストから削除したときにスクロール位置を保持するやつ,segabito,https://greasyfork.org/zh-CN/scripts/437
+438,NicoWheelVolume,マウスのボタン＋ホイールで、どこでも音量調整 for ニコニコ動画とYouTube,segabito,https://greasyfork.org/zh-CN/scripts/438
+439,nicosJumpCanceller,「＠ジャンプ」を無効化,segabito,https://greasyfork.org/zh-CN/scripts/439
+445,myTImenu - Personal version,Create new buttons on NavTab and drop down menus on top,Silveress,https://greasyfork.org/zh-CN/scripts/445
+446,Google Calendar Views - Personal version,Have several calendars? Stop clicking and create views in Google's calendar application,Silveress,https://greasyfork.org/zh-CN/scripts/446
+452,ShinjukuWatch,新しい原宿　略して新宿,segabito,https://greasyfork.org/zh-CN/scripts/452
+453,WatchItLater,動画を見る前にマイリストに登録したいGreasemonkey (Chrome/Fx用),segabito,https://greasyfork.org/zh-CN/scripts/453
+454,MOD_Seiga,ニコニコ静画のUIをいじる,segabito,https://greasyfork.org/zh-CN/scripts/454
+455,BlastarBegoner ][+,further enhancements for Kuro5hin.org,Nimey,https://greasyfork.org/zh-CN/scripts/455
+456,Affiliate killer,No more Affiliate Link! Plz Original URL!,noisys,https://greasyfork.org/zh-CN/scripts/456
+457,QR-Plugins.IMG.WrapBBCode,"plugins for Kaskus-QR, wrap all image link with img bbcode",tuxie.forte,https://greasyfork.org/zh-CN/scripts/457
+458,QR-Plugins.EmbedMedia,"plugins for Kaskus-QR embed media, eg SoundCloud, Vimeo",tuxie.forte,https://greasyfork.org/zh-CN/scripts/458
+459,QR-Plugins.TextFliper,plugins for Kaskus-QR TextFliper generator,tuxie.forte,https://greasyfork.org/zh-CN/scripts/459
+460,QR-Plugins.RainbowText,plugins for Kaskus-QR rainbowtext generator,tuxie.forte,https://greasyfork.org/zh-CN/scripts/460
+461,QR-Plugins.TextMechanic,plugins for Kaskus-QR TextMechanic generator,tuxie.forte,https://greasyfork.org/zh-CN/scripts/461
+462,Fixed Scroller Anywhere,fixedscrollanywhere,tuxie.forte,https://greasyfork.org/zh-CN/scripts/462
+463,Greasyfork Require Easy Get Latest Version,Puts the link for the latest version of a library into an input with autoselect instead of a code tag.,Tobbe,https://greasyfork.org/zh-CN/scripts/463
+465,GeenStijl & Powned & Dumpert Comment Enhancer,Add features to enhance comments on GeenStijl & Powned & Dumpert & more.,jerone,https://greasyfork.org/zh-CN/scripts/465
+466,Outlook Sign Out To Login,Redirect back to login page when signing out from Outlook,jerone,https://greasyfork.org/zh-CN/scripts/466
+467,Github Commit Whitespace,Adds button to hide whitespaces from commit,jerone,https://greasyfork.org/zh-CN/scripts/467
+468,Youtube Video Ratings TEST,Shows the rating as well as the ratio of likes per views (Like Strength) below each video's thumbnail.,lednerg,https://greasyfork.org/zh-CN/scripts/468
+469,Super Bawu,吧务拉黑封禁功能增强,文科,https://greasyfork.org/zh-CN/scripts/469
+473,Kiss Insights Goodbye,Remove KissInsights dialogs from all web sites.,johan 2,https://greasyfork.org/zh-CN/scripts/473
+474,Github: unfold commit history,"Adds ""unfold all changesets"" buttons (hotkey: f) above/below Commit History pages at github, letting you browse the source changes without leaving the page. (Click a commit header again to re-fold it.) You can also fold or unfold individual commits by clicking on non-link parts of the commit. As a bonus, all named commits get their tag/branch names annotated in little bubbles on the right.",johan 2,https://greasyfork.org/zh-CN/scripts/474
+475,Github: JSON reformatter,Reformats JSON(P) files in the github tree view for readability.,johan 2,https://greasyfork.org/zh-CN/scripts/475
+476,Wikipedia Inline Footnotes,Shows footnotes inline when clicked.,johan 2,https://greasyfork.org/zh-CN/scripts/476
+477,Plan B: inline footnotes,"Lets you click footnotes in Earth Policy Institute's ""Plan B"" series of books to bring them to your eyes, rather than have you chase down the page to the reference, and back again afterward. Hypertext!",johan 2,https://greasyfork.org/zh-CN/scripts/477
+480,on.js,A micro-library for DRY:ing up the boring boilerplate of user scripts,johan 2,https://greasyfork.org/zh-CN/scripts/480
+481,Tieba Private,自动清除贴吧个人主页【最近来访】记录,文科,https://greasyfork.org/zh-CN/scripts/481
+484,Hitbox Emotes,"The original Hitbox Emotes script with ober 15,000 emotes! - Request your custom emotes and mod badges here!",GamingTom,https://greasyfork.org/zh-CN/scripts/484
+485,pikabu: Watch Later,"Позволяет складывать загружающиеся гифки в сторону, чтобы потом не возвращаться к ним",Kilowatt,https://greasyfork.org/zh-CN/scripts/485
+487,Ilta-Saatana Ilta-Sanomille,Saatana!,veeti,https://greasyfork.org/zh-CN/scripts/487
+488,Ilta-Saatana Iltalehdelle,Saatana!,veeti,https://greasyfork.org/zh-CN/scripts/488
+489,百度贴吧图片缩放增强脚本,增强百度贴吧图片缩放，看大图无需开新标签页。,patwonder,https://greasyfork.org/zh-CN/scripts/489
+490,Hide Chess.com Opponent Ratings,"Hide ratings in games, and on your homepage.  For those who don't want a constant reminder that their opponent is better (or worse) than them.",JynxZero,https://greasyfork.org/zh-CN/scripts/490
+492,AoA:GE,Age of Aincrad: Guild Edition,Haranobu,https://greasyfork.org/zh-CN/scripts/492
+493,Github Comment Enhancer,Enhances Github comments,jerone,https://greasyfork.org/zh-CN/scripts/493
+494,YouTube Auto Buffer & Auto HD,"Buffers the video without autoplaying and puts it in HD if the option is on. For Firefox, Opera, & Chrome",JoeSimmons,https://greasyfork.org/zh-CN/scripts/494
+495,Remove Chess.com User Stylesheets,Remove custom stylesheets from group and user pages,JynxZero,https://greasyfork.org/zh-CN/scripts/495
+496,百度云插件+APIKey,在百度云网盘的页面添加一个搜索框，调用搜索API搜索所有公开分享文件// To add a search frame that calls some api for searching some public shared files in BaiduYun cloud netdisk.,cinima,https://greasyfork.org/zh-CN/scripts/496
+499,Soundcloud Disable Comments,Remove comment elements from Soundcloud waveforms.,tim 3,https://greasyfork.org/zh-CN/scripts/499
+501,USO Links,Add's shortcuts links to the login status bar.,tim 3,https://greasyfork.org/zh-CN/scripts/501
+503,Export GitHub Issues,Can export issues by state and label,tim 3,https://greasyfork.org/zh-CN/scripts/503
+505,Download YouTube Captions,Download subtitles / captions from YouTube in several formats,tim 3,https://greasyfork.org/zh-CN/scripts/505
+507,Bing图,百度首页变成bing,文科,https://greasyfork.org/zh-CN/scripts/507
+512,Kaskus-Head-Scroller,simple script do scroll to top at header (*.kaskus.co.id),tuxie.forte,https://greasyfork.org/zh-CN/scripts/512
+513,Overview Ikariam Icon,"Report for Ikariam (table, etc.)",frapao,https://greasyfork.org/zh-CN/scripts/513
+518,joyreactor.cc (reactor.cc) Comment Colorizer,Colorizes comments by rating,Sanya_Zol,https://greasyfork.org/zh-CN/scripts/518
+519,pikabu.ru Comment Colorizer,Colorizes comments by rating,Sanya_Zol,https://greasyfork.org/zh-CN/scripts/519
+521,Remove google footer,Remove the footer from google home page + google chrome ad.,kylon,https://greasyfork.org/zh-CN/scripts/521
+522,html.it Video Widget Remover,remove the video widget from html.it pages,kylon,https://greasyfork.org/zh-CN/scripts/522
+523,Niresh12495 Cleaner,Anti-Anti_adblock + remove some stuff,kylon,https://greasyfork.org/zh-CN/scripts/523
+525,readimage,已经看过的图片显示红框,文科,https://greasyfork.org/zh-CN/scripts/525
+531,Auto Sort By Seeders (Decending) on ThePirateBay,Automatically Sort By Seeders (Decending) on ThePirateBay and its mirrors and proxies,TomC,https://greasyfork.org/zh-CN/scripts/531
+532,Monster iLive,Get the full screen,Aleks 2,https://greasyfork.org/zh-CN/scripts/532
+534,No MSN on HoTMaiL signout,Stops hotmail redirecting you to msn when you sign out,Spooky Donkey,https://greasyfork.org/zh-CN/scripts/534
+536,IMDb Standard Deviation,Adds standard deviation to IMDb ratings breakdown pages.,Spooky Donkey,https://greasyfork.org/zh-CN/scripts/536
+590,always Responsive Design View mode,Fix web page content area size,shyangs,https://greasyfork.org/zh-CN/scripts/590
+591,Gamefaqs Quick Edit,Edit from within topic in gamefaqs,Neil 2,https://greasyfork.org/zh-CN/scripts/591
+593,Yays! (Yet Another Youtube Script),A lightweight and non-intrusive userscript that control video playback and set the preferred player size and playback quality on YouTube.,Eugene Nouvellieu,https://greasyfork.org/zh-CN/scripts/593
+594,SIForge,http://www.dreadcast.net/Main,Odul,https://greasyfork.org/zh-CN/scripts/594
+595,sauvegardeMessagerieAncienneInterface,Sauvegarde des messages de l'ancienne interface,Odul,https://greasyfork.org/zh-CN/scripts/595
+596,VousAvezUnMessage,Une voix vous signale la reception d'un message.,Odul,https://greasyfork.org/zh-CN/scripts/596
+597,Leszar,Pour une visite plus intense de ce lieu hors du temps,Odul,https://greasyfork.org/zh-CN/scripts/597
+598,AutoMessagerie2,Recherche des messages,Odul,https://greasyfork.org/zh-CN/scripts/598
+600,AutoNovaMatrice,Gestion plus poussée de vos EMs.,Odul,https://greasyfork.org/zh-CN/scripts/600
+601,AutoNovAccueilMatrice,Agencement différent de l'accueil,Odul,https://greasyfork.org/zh-CN/scripts/601
+602,Newgrounds Dump Links Fixer,Change the link of an NG dump file from a forced download to one that can be opened within the browser. It's based upon Newgrounds Direct Audio Link (by foxsan48) with additional tweaks by B1KMusic (http://bradenbest.com/). NOTE! Due to changes in NG URL structure this script no longer works: there is no way to directly view a dump file without downloading.,Cyberdevil,https://greasyfork.org/zh-CN/scripts/602
+603,GameFAQs User Page in Search Bar,"Adds ""User Page"" option to GameFAQs search bar",OTACON120,https://greasyfork.org/zh-CN/scripts/603
+605,"GameFAQs ""Inbox"" Header Dropdown","Provide dropdown for ""Inbox"" link in header for various PM-related links",OTACON120,https://greasyfork.org/zh-CN/scripts/605
+606,GameFAQs Post and Track,Enables option to automatically track a topic when you post a new message,OTACON120,https://greasyfork.org/zh-CN/scripts/606
+607,GameFAQs Post Form Hotkeys,Adds old GameFOX post form hotkeys to stock GameFAQs post form submit buttons,OTACON120,https://greasyfork.org/zh-CN/scripts/607
+608,GameFAQs Multiple Single-PM Recipients,Allow multiple recipients for one PM to be set,OTACON120,https://greasyfork.org/zh-CN/scripts/608
+610,"GameFAQs ""New Poll"" Link in Topic List","Adds ""New Poll"" link on topic list pages.",OTACON120,https://greasyfork.org/zh-CN/scripts/610
+612,GameFAQs Close Topic Confirmation,"Adds confirmation to the ""Close Topic"" button on the GameFAQs Message Boards",OTACON120,https://greasyfork.org/zh-CN/scripts/612
+613,"GameFAQs Quicker ""New Poll""","Makes reaching the ""Add a Poll"" form easier/quicker",OTACON120,https://greasyfork.org/zh-CN/scripts/613
+614,GameFAQs Account-specific Site Colors,Changes site color based on which account is currently logged in,OTACON120,https://greasyfork.org/zh-CN/scripts/614
+615,GameFAQs Collapsible Spoilers,Replaces GameFAQs obscured-text spoilers with collapsible spoilers,OTACON120,https://greasyfork.org/zh-CN/scripts/615
+619,Search IMDb Item on Netflix,"Places a ""Search for this on Netflix"" button on the main page of any TV show/movie page on IMDb",OTACON120,https://greasyfork.org/zh-CN/scripts/619
+620,GameFAQs AMP Sorting,"Gives the ability to sort GameFAQs Message Boards' ""Active Messages"" list",OTACON120,https://greasyfork.org/zh-CN/scripts/620
+621,Show Youtube Video Length Time,"Shows Youtube video length in hours, minutes, and seconds",TwinScript,https://greasyfork.org/zh-CN/scripts/621
+622,Super_GM_setValue_and_GM_getValue.js,Extends the GM_setValue and GM_getValue functions for any javascript variable type.,Alex 5,https://greasyfork.org/zh-CN/scripts/622
+623,CBHelper,Adds various fixes and tweaks to CB admin module,Alex 5,https://greasyfork.org/zh-CN/scripts/623
+624,Twitch Plays Pokemon Chat Filter,Chat commands from the Twitch Plays Pokemon stream are filtered.,MagmarFire,https://greasyfork.org/zh-CN/scripts/624
+625,Remove TV Tropes Namespace from Title,Removes the namespace from the tab title of a TV Tropes article so it's easier to tell the article name from a glance.,MagmarFire,https://greasyfork.org/zh-CN/scripts/625
+626,Clickable GameFAQs Links,Changes URL text inside posts into clickable links.,MagmarFire,https://greasyfork.org/zh-CN/scripts/626
+627,Novo Tema Do Flamengo Para O Facebook. !,All about facebook By Mark zuckerberg,Carlos Rafael B De Alencar,https://greasyfork.org/zh-CN/scripts/627
+628,GameFAQs-Avatars,Avatars for GameFAQs,Kraust,https://greasyfork.org/zh-CN/scripts/628
+629,GameFAQs WebM Support,WebM Support for GameFAQs Forums,Kraust,https://greasyfork.org/zh-CN/scripts/629
+631,Image Viewer,"inject this script into any page, and right-click on the image you want to view full-size",Braden Best,https://greasyfork.org/zh-CN/scripts/631
+633,pasteAndDragImageIntoTiebaEditor,贴吧图片拖放和粘贴上传,文科,https://greasyfork.org/zh-CN/scripts/633
+635,Dozenal search for OEIS,Allows searching OEIS with dozenal numbers.,mudri,https://greasyfork.org/zh-CN/scripts/635
+636,Dozenal OEIS,"Gives sequences on OEIS in dozenal, as well as the standard decimal.",mudri,https://greasyfork.org/zh-CN/scripts/636
+637,Dozensonline Dozenator,"Converts the site-generated numbers on Dozensonline into dozenal, as they should be.",mudri,https://greasyfork.org/zh-CN/scripts/637
+638,Metrolyrics - We know they're lyrics!,"Removes superfluous use of the word ""lyrics"" on Metrolyrics.",mudri,https://greasyfork.org/zh-CN/scripts/638
+639,Processing.js title changer,Adds the text of the main heading of the page to the title of the document on processingjs.org.,mudri,https://greasyfork.org/zh-CN/scripts/639
+640,MathJax for Dozensonline,Enables use of MathJax (including LaTeX support) on Dozensonline.,mudri,https://greasyfork.org/zh-CN/scripts/640
+641,Dozensonline Custom Symbols,Changes the Pitman digits for ten and eleven on Dozensonline to some better ones.,mudri,https://greasyfork.org/zh-CN/scripts/641
+642,Dozensonline Safe Symbols X & E,"Inserts full [img] tags into Dozensonline messages, rather than :A and :B.",mudri,https://greasyfork.org/zh-CN/scripts/642
+646,Everlasting Juick,Everlasting Juick scrolling / Бесконечный скроллинг Жуйка,dluciv,https://greasyfork.org/zh-CN/scripts/646
+651,NicoVideoStoryboard,シークバーに出るサムネイルを並べて表示,segabito,https://greasyfork.org/zh-CN/scripts/651
+652,Howrse Reserve EC Boxes Simplified,Simplifies reserving EC boxes on Howrse to yourself or unreserving them.,daexion,https://greasyfork.org/zh-CN/scripts/652
+655,短网址快速跳转,快速进入目标地址 GO!,Jixun.Moe,https://greasyfork.org/zh-CN/scripts/655
+660,WoTStatScript - Forums,Adds stats and links for posts on official World of Tanks forums,Orrie,https://greasyfork.org/zh-CN/scripts/660
+661,WoTStatScript,More info for World of Tanks profile page. Updated for the new style.,Orrie,https://greasyfork.org/zh-CN/scripts/661
+664,去掉Google搜索的跳转,来源：http://www.nowamagic.net/librarys/veda/detail/389,iir910,https://greasyfork.org/zh-CN/scripts/664
+666,Dota 2 & CSGO Lounge item price displayer,Displays an item's price information from the Steam Community Market and helps to copy an item's name.,Enygma,https://greasyfork.org/zh-CN/scripts/666
+667,Bangumi Repost Status,转发 Bangumi 时间线上的所有消息,upsuper,https://greasyfork.org/zh-CN/scripts/667
+668,WeiPhoneDownloadHelper,批量下载威锋论坛的电子书,ywzhaiqi,https://greasyfork.org/zh-CN/scripts/668
+670,C&C:TA CNCOpt Link Button,"Creates a ""CNCOpt"" button when selecting a base in Command & Conquer: Tiberium Alliances. The share button takes you to http://cncopt.com/ and fills in the selected base information so you can analyze or share the base.",hexist,https://greasyfork.org/zh-CN/scripts/670
+673,HarajukuPlayer,"NicoPlayer4,LivePlayer 最終更新版",none-none,https://greasyfork.org/zh-CN/scripts/673
+674,BlockTMS & AutoTimer,"Prevent use form page other than viewing, and adding countdown timers",Rick 2,https://greasyfork.org/zh-CN/scripts/674
+677,AutoLoginJ,Automatically submits login forms where Firefox has remembered the password.,Rick 2,https://greasyfork.org/zh-CN/scripts/677
+678,Allow Password Remembering,"Removes autocomplete=""off"" attributes",Rick 2,https://greasyfork.org/zh-CN/scripts/678
+679,BlockTMS & Confirm Cue,"Protect page with code, and add confirmation boxes to quickcues",Rick 2,https://greasyfork.org/zh-CN/scripts/679
+680,Pimp My Dragosien,"Erweitert das Browserspiel Dragosien (dragosien.de) mit zusätzlichen Funktionen, die die Bedienung erleichtern sollen.",Uranos 2,https://greasyfork.org/zh-CN/scripts/680
+690,screw ctrl+q,fuck the q key,RJ 3,https://greasyfork.org/zh-CN/scripts/690
+691,CPV Link Skipper,Skip shit,tjr,https://greasyfork.org/zh-CN/scripts/691
+692,Manga Loader,"Support for over 70 sites! Loads manga chapter into one page in a long strip format, supports switching chapters, minimal script with no dependencies, easy to implement new sites, loads quickly and works on mobile devices through bookmarklet",fuzetsu,https://greasyfork.org/zh-CN/scripts/692
+694,YouTube Playlist Time,Shows the total time it would take to watch all the videos in a YouTube playlist,fuzetsu,https://greasyfork.org/zh-CN/scripts/694
+706,Reddit Flair Linkifier,Turns the text in various subreddits' flair into links,kufii,https://greasyfork.org/zh-CN/scripts/706
+707,Hummingbird 10 Point Ratings,Converts Hummingbird ratings to a 10 point scale,kufii,https://greasyfork.org/zh-CN/scripts/707
+708,Kanji Highlighter,"Highlights all kanji on a website using a specific color, depending on the 'level' that it can be found in (optimized for WaniKani users).",Epicwhale,https://greasyfork.org/zh-CN/scripts/708
+710,WaniKani Part-of-Speech,Displays additional part of speech information on the vocab item page.,Epicwhale,https://greasyfork.org/zh-CN/scripts/710
+715,CnC: MHTools Tiberium Alliances Available Loot Summary + Info,CROSS SERVERS Loot & troops & bases & distance info.,Krzysiek 2,https://greasyfork.org/zh-CN/scripts/715
+716,CnC Tiberium Coord Box Shortcut,"Adds ""navigate"" button which opens dialog in which you can enter map coordinates and scroll your screen to that location",Krzysiek 2,https://greasyfork.org/zh-CN/scripts/716
+718,infernal wrapper,Supplies some wrapper functions for public use,Krzysiek 2,https://greasyfork.org/zh-CN/scripts/718
+719,MaelstromTools Dev,"Just a set of statistics & summaries about repair time and base resources. Mainly for internal use, but you are free to test and comment it.",Krzysiek 2,https://greasyfork.org/zh-CN/scripts/719
+722,Kanji Highlighter,"Highlights all kanji on a website using a specific color, depending on the 'level' that it can be found in (optimized for WaniKani users).",looki,https://greasyfork.org/zh-CN/scripts/722
+723,WaniKani Stroke Order,Shows a kanji's stroke order on its page and during lessons and reviews.,looki,https://greasyfork.org/zh-CN/scripts/723
+725,google cache comeback,Brings back links to cached pages in the  Google search results,trespassersW,https://greasyfork.org/zh-CN/scripts/725
+727,BTN - collapse tech specs,hide+click to expand,differentia,https://greasyfork.org/zh-CN/scripts/727
+728,BTN - collapse show info,shrink/expand the show info box,differentia,https://greasyfork.org/zh-CN/scripts/728
+734,IMDB Person's Title Ratings,Adds ratings & vote counts with sorting ability to a person's movie/TV show lists,WardenclyffeTower,https://greasyfork.org/zh-CN/scripts/734
+738,Rotten Tomatoes Movie ID Logger,This script will simply console log the movie ID of the rotten tomatoes entry you are viewing.,matthew 2,https://greasyfork.org/zh-CN/scripts/738
+739,ele.me get infomation,获取饿了么菜单页指定格式,richie,https://greasyfork.org/zh-CN/scripts/739
+740,bili_fix_player,B站播放器增强脚本，下载视频，可使用另外两种H5播放器，可弹窗播放等,绯色起源,https://greasyfork.org/zh-CN/scripts/740
+743,Darksoul KOC Power Tools,Enhancements and bug fixes for Kingdoms of Camelot,Phoenix 2,https://greasyfork.org/zh-CN/scripts/743
+745,KOCAttack - Extra Features!,"Same as the original Kingdoms of Camelot Attack script, but with extra features.",Phoenix 2,https://greasyfork.org/zh-CN/scripts/745
+746,KOC Throne Room Organizer,"Organizes, upgrades and salvages KOC throne room items",Phoenix 2,https://greasyfork.org/zh-CN/scripts/746
+747,Wanikani On'yomi in katakana,Transforms any onyomi reading into katakana on Wanikani,Thomas 2,https://greasyfork.org/zh-CN/scripts/747
+751,One Long Thread,Show up to 5 thread pages at a time on one page.,fusen,https://greasyfork.org/zh-CN/scripts/751
+753,whatimg - add [img] tags,you need to set 'upload layout' to boxed in whatimg settings,differentia,https://greasyfork.org/zh-CN/scripts/753
+754,KG - upload: add [img] tags,adds link to auto tag image URLs,differentia,https://greasyfork.org/zh-CN/scripts/754
+755,KG - move details,splits the long torrent details table into two side-by-side boxes,differentia,https://greasyfork.org/zh-CN/scripts/755
+756,KG - less page jumps while images load,"gives torrent description a scrollbar+set height, click inside to revert",differentia,https://greasyfork.org/zh-CN/scripts/756
+757,Colorfull reddit usernames (CRU),Colorizes usernames on reddit comments,sxe,https://greasyfork.org/zh-CN/scripts/757
+759,Steam Scroll,Adds mouse wheel support to the horizontal screenshot slider on Steam product pages.,nlwillia,https://greasyfork.org/zh-CN/scripts/759
+762,niconico Matome Blog Remover,niconicoの各サービスから不快なまとめブログとブロマガの表示を消します,AgentSmith,https://greasyfork.org/zh-CN/scripts/762
+763,CloseIt,close,Amanda 2,https://greasyfork.org/zh-CN/scripts/763
+764,Empire Overview,"Script for Ikariam 0.7.x, Overview tables for resources, buildings and military inspired by Ikariam Empire Board",germano,https://greasyfork.org/zh-CN/scripts/764
+765,WM Common Library,"A collection of useful functions and objects, some of which are specific to the Wall Manager family of scripts.",thehumblesupremo,https://greasyfork.org/zh-CN/scripts/765
+766,Wall Manager Sidekick (PT),Assists Wall Manager with Pioneer Trail posts,thehumblesupremo,https://greasyfork.org/zh-CN/scripts/766
+768,Demon 1183 j,Demon j,webwyre,https://greasyfork.org/zh-CN/scripts/768
+771,Neverwinter Gateway - Professions Robot,Automatically selects professions for empty slots,Bunta 2,https://greasyfork.org/zh-CN/scripts/771
+772,Last.fm - Hide Activity Box,Allows user to toggle display of activity box in their own profile,snyde,https://greasyfork.org/zh-CN/scripts/772
+773,Last.fm - Opera: Highlight Same Artists - July 2010,Highlights artists that you listen to on other users' profiles.,snyde,https://greasyfork.org/zh-CN/scripts/773
+774,Last.fm - Polish the profile,Display percentage of plays and statistics on user profile,snyde,https://greasyfork.org/zh-CN/scripts/774
+775,Last.fm - Get last reply date - July 2008,Gets the date of the last post to group forum. For the Opera browser. By snyde1,snyde,https://greasyfork.org/zh-CN/scripts/775
+776,Last.fm - Who has posted here,Display usernames that posted in a thread.,snyde,https://greasyfork.org/zh-CN/scripts/776
+777,BaiDu_ZhiDao_Helper,Press Ctrl+Enter to submit answers in BaiDu ZhiDao.,chris,https://greasyfork.org/zh-CN/scripts/777
+780,百度贴吧重定向,重定向各类同素异形体到更科学的主域名tieba.baidu.com,jiayiming,https://greasyfork.org/zh-CN/scripts/780
+781,bilibili播放器修正,还原成bilibili原弹幕播放器,jiayiming,https://greasyfork.org/zh-CN/scripts/781
+782,PT Auto Thanks,Auto thanks in TTG and NexusPHP.,jiayiming,https://greasyfork.org/zh-CN/scripts/782
+783,百度贴吧不可能会跳转！,去除贴吧帖子里链接的跳转,jiayiming,https://greasyfork.org/zh-CN/scripts/783
+784,百度贴吧科学看图君,去除百度贴吧的连续看图模式，改为点击新标签打开无水印原图，同时支持帖子预览中“查看大图”按钮。,jiayiming,https://greasyfork.org/zh-CN/scripts/784
+785,BaiDuYun_Multi_Offline,Add multiple download feature to Baidu Yun offine download.,chris,https://greasyfork.org/zh-CN/scripts/785
+786,bilibili toothbrush,牙刷科技,冻猫,https://greasyfork.org/zh-CN/scripts/786
+787,torec subfilter,Add a text box above the subtitle list which allow one to filter the list.,Rabin,https://greasyfork.org/zh-CN/scripts/787
+789,Select text inside a link like Opera,Disable link dragging and select text.,eight,https://greasyfork.org/zh-CN/scripts/789
+790,Show and reload broken images,The name explained it,eight,https://greasyfork.org/zh-CN/scripts/790
+794,Jump to Top/Bottom of page with hotkeys,为网页增加向页尾、页首的按钮及快捷键。,duola,https://greasyfork.org/zh-CN/scripts/794
+796,osu! Download from mirror,Download beatbaps from mirror site,冻猫,https://greasyfork.org/zh-CN/scripts/796
+798,KG - check screenshots,list screenshot dimensions & count of each size,differentia,https://greasyfork.org/zh-CN/scripts/798
+799,KG - show year on requests,gets years from IMDB,differentia,https://greasyfork.org/zh-CN/scripts/799
+800,KG - enhance search forms,"countrypicker for main search, requests search",differentia,https://greasyfork.org/zh-CN/scripts/800
+801,IMDB - add tracker links,at bottom-right of page,differentia,https://greasyfork.org/zh-CN/scripts/801
+802,KG - default sort by Added,affects browse tab and search form,differentia,https://greasyfork.org/zh-CN/scripts/802
+803,Bodyfashion Cooperatie Checkbox mass toggle script,Mass toggle checkboxes,dvdmierden,https://greasyfork.org/zh-CN/scripts/803
+805,KG - Link to letterboxd.com film page,"Adds a link to the letterboxd.com film page, using the IMDb code",Lucky Luciano,https://greasyfork.org/zh-CN/scripts/805
+806,Letterboxd.com to KG,It adds a link in the right side panel for searching kg for torrents with the respective IMDb code(main film page) or Title(pages such as 'user reviewed film').,Lucky Luciano,https://greasyfork.org/zh-CN/scripts/806
+808,Yarolds Non Action Close It,Closes Non Action links at Yarolds,Amanda 2,https://greasyfork.org/zh-CN/scripts/808
+809,No Yandex Ads [discontinued],Удаляет рекламу из результатов поиска Яндекс. Removes ads in Yandex search results.,Lain inVerse,https://greasyfork.org/zh-CN/scripts/809
+810,Crunchyroll: Resize Player To Window Size,Moves the video to the top of the website and resizes it to the screen size.,Zren,https://greasyfork.org/zh-CN/scripts/810
+811,Resize YT To Window Size,Moves the YouTube video to the top of the website and fill the window with the video player.,Zren,https://greasyfork.org/zh-CN/scripts/811
+812,Yarolds Close It,"Closes Non Action links at Yarolds, and does Actions then Closes Action links at Yarolds",Noonya,https://greasyfork.org/zh-CN/scripts/812
+813,Yarolds Referrer Close It,Closes game referral links at Yarolds,Noonya,https://greasyfork.org/zh-CN/scripts/813
+814,Yarolds Exchange Cycler V2,Cycles between the exchange pages,DemonicJ,https://greasyfork.org/zh-CN/scripts/814
+815,Yarolds Exchange Cycler,Cycles between the exchange pages,DemonicJ,https://greasyfork.org/zh-CN/scripts/815
+816,bib - highlight retail,colour highlight for retail,differentia,https://greasyfork.org/zh-CN/scripts/816
+817,bib - move author,rearrange author/title,differentia,https://greasyfork.org/zh-CN/scripts/817
+818,overdrive library - btik links,link from overdrive to btik,differentia,https://greasyfork.org/zh-CN/scripts/818
+819,IMDB - produce directory name,produces a directory name ready to copy/paste,differentia,https://greasyfork.org/zh-CN/scripts/819
+820,bib - highlight filled requests,highlight,differentia,https://greasyfork.org/zh-CN/scripts/820
+821,KG - homepage additions,see latest uploads from your choice of directors & users on homepage (edit script to choose which),differentia,https://greasyfork.org/zh-CN/scripts/821
+822,what.cd + other gazelle trackers - improve readability,increase fontsize of Artist - Album in torrent listings making it much easier to scan through the page,differentia,https://greasyfork.org/zh-CN/scripts/822
+823,bibliotik - creator names link directly to torrents,eliminates a click,differentia,https://greasyfork.org/zh-CN/scripts/823
+824,itunes - get large artwork,click on the poster/album cover for the large version. they're not always available.,differentia,https://greasyfork.org/zh-CN/scripts/824
+825,Last.fm - Opera: Sort by time,Sort overall top artists by time played.,snyde,https://greasyfork.org/zh-CN/scripts/825
+826,Last.fm - How old is your music,"Allows user to find their album dates from Last.fm - tribute to pumpkinlll's ""How old is your music"" service",snyde,https://greasyfork.org/zh-CN/scripts/826
+827,Last.fm - Artist average plays,Determines the average plays per listener. Suggested by meninc,snyde,https://greasyfork.org/zh-CN/scripts/827
+828,Last.fm - Get TOM,Display taste-o-meter ratings for user lists,snyde,https://greasyfork.org/zh-CN/scripts/828
+829,Restore Youtube Embed Defaults,"Removes special options from Youtube embeds, resetting everything to defaults. Useful for restoring disabled buttons like fullscreen and watch on Youtube.",chaimleib,https://greasyfork.org/zh-CN/scripts/829
+831,TwiShell,Enhance Twitter Web with lots of features.,ayanamist,https://greasyfork.org/zh-CN/scripts/831
+832,delCSLimit,del chuangshi.com limit,perzer,https://greasyfork.org/zh-CN/scripts/832
+834,delZHLimit,删除纵横中文网选择限制,perzer,https://greasyfork.org/zh-CN/scripts/834
+841,DRTV,Dette script gør det muligt at optage programmer fra DR TV og Bonanza så de kan ses offline,Martin Larsen,https://greasyfork.org/zh-CN/scripts/841
+842,Yahoo sign up for iranian V3(ZANA_FN),اسکریپتی جهت دور زدن تحریم‌های یاهو بر علیه ایران,ZANA_FN,https://greasyfork.org/zh-CN/scripts/842
+845,Youtube Slimfeed,Reduces size of each subscription item and removes or makes more visible which video was watched,labm0nkey,https://greasyfork.org/zh-CN/scripts/845
+846,Feedly slimFeed,Adds favicons to feeds and quick mark as read buttons.,labm0nkey,https://greasyfork.org/zh-CN/scripts/846
+847,Shutup.css,Hide comments from different sites,krisu,https://greasyfork.org/zh-CN/scripts/847
+852,Keep Mturk Autoaccept Box Checked,Keeps the autoaccept box always checked while working on hits on mturk.,swole_hamster,https://greasyfork.org/zh-CN/scripts/852
+854,Jose Ramos embed,Embeds a google map in the hit,swole_hamster,https://greasyfork.org/zh-CN/scripts/854
+856,productrnr,"Script to assist with ProductRnR MTurk Hits. F for Forward, R for Reverse, C for current",swole_hamster,https://greasyfork.org/zh-CN/scripts/856
+857,Hide Anonymous Plurks,Hides ALL anonymous plurks,Codie,https://greasyfork.org/zh-CN/scripts/857
+860,(indev) Barefoot Essentials for GOG.com,Enhances the GOG.com website,Daniel Walker,https://greasyfork.org/zh-CN/scripts/860
+861,Categorization Map,enter something useful,Tjololo,https://greasyfork.org/zh-CN/scripts/861
+862,"My Little Keywords, Cheating is Magic!",Click on the circle task number indicators on the left to start working,Tjololo,https://greasyfork.org/zh-CN/scripts/862
+863,MTurk - Expanded header info. - UPDATE,This script adds some extra features under the account header links on MTurk's site. New features include displaying of your transfer balance along with Worker ID.,Tjololo,https://greasyfork.org/zh-CN/scripts/863
+864,MTurk HIT DataBase Legacy,"Extended ability to search HITs you have worked on and other useful tools (CSV export/import, requester notes, requester block, pending/projected earnings)",Tjololo,https://greasyfork.org/zh-CN/scripts/864
+867,jovi,OviPets Grease Monkey script providing enhanced UI,nodoze313,https://greasyfork.org/zh-CN/scripts/867
+868,Malones Auto Hyper,This is an auto-hype script for Mixify.com. It will automatically click the hype button randomly between 10-20 seconds. It will hype any time you are in a room.,Micheal Luttrull,https://greasyfork.org/zh-CN/scripts/868
+873,GameFAQs Private Board Boot Button,Adds a boot button to the private board member list,PBAdmin,https://greasyfork.org/zh-CN/scripts/873
+874,HKG LM finder F,HKGolden LM finder F,Peach,https://greasyfork.org/zh-CN/scripts/874
+875,GameFAQs - Private Board invite button on message list,GameFAQs - Private Board invite button on message list descr,PBAdmin,https://greasyfork.org/zh-CN/scripts/875
+876,GameFAQs - Private Board User Profile Invite button,GameFAQs - Private Board User Profile Invite button descr,PBAdmin,https://greasyfork.org/zh-CN/scripts/876
+880,Nico Nico Ranking NG,ニコニコ動画のランキングとキーワード・タグ検索結果に NG 機能を追加,kengo321,https://greasyfork.org/zh-CN/scripts/880
+882,Tategaki Novel,小説投稿サイトに縦書き表示機能を追加,kengo321,https://greasyfork.org/zh-CN/scripts/882
+883,Pixiv Image Size Fitting,pixiv の原寸画像が表示領域に収まるように画像サイズを変更,kengo321,https://greasyfork.org/zh-CN/scripts/883
+885,Nico User Ads Hider,ニコニ広告による動画への装飾を削除,kengo321,https://greasyfork.org/zh-CN/scripts/885
+894,InoReader Scroll Marker,Display the marker of page scroll in InoReader. / InoReaderでページスクロールしたときにマーカーを表示します。,fxwiki,https://greasyfork.org/zh-CN/scripts/894
+895,InoReader Filter,Highlight or remove articles in InoReader. / InoReaderの記事を消去もしくは強調表示します。,fxwiki,https://greasyfork.org/zh-CN/scripts/895
+896,Feedly Full Feed,Read full story in Feedly. / Feedlyで記事の全文を表示します。,fxwiki,https://greasyfork.org/zh-CN/scripts/896
+897,InoReader Full Feed,Read full story in InoReader. / InoReaderで記事の全文を表示します。,fxwiki,https://greasyfork.org/zh-CN/scripts/897
+898,InoReader Key Customize,Customize keyboard shortcuts in InoReader. / InoReaderのキーボードショートカットをカスタマイズします。,fxwiki,https://greasyfork.org/zh-CN/scripts/898
+899,Feedly Scroll Marker,Display the marker of page scroll in Feedly. / Feedlyでページスクロールしたときにマーカーを表示します。,fxwiki,https://greasyfork.org/zh-CN/scripts/899
+901,Highlight Unhighlightable Text (CrowdSource),Allows highlighting of unhighlightable text.,swole_hamster,https://greasyfork.org/zh-CN/scripts/901
+907,Captcha Counter,Counts the number of hits remaining before you get a captcha,Tjololo,https://greasyfork.org/zh-CN/scripts/907
+908,Andy K Helper Script,Andy K Helper Hit,Tjololo,https://greasyfork.org/zh-CN/scripts/908
+910,CrowdSource: Search Keywords,Click on the circle task number indicators on the left to start working,Tjololo,https://greasyfork.org/zh-CN/scripts/910
+911,MTurk Great HIT Export,"Export HIT description as vBulletin formatted text with turkopticon link, turkopticon info, and all relevant data",Tjololo,https://greasyfork.org/zh-CN/scripts/911
+912,Hide instructions for media hits,enter something useful,Tjololo,https://greasyfork.org/zh-CN/scripts/912
+913,Andy K Image Moderation,Andy K Image Moderation Hits,Tjololo,https://greasyfork.org/zh-CN/scripts/913
+914,RnR Script,Helpful things to do the ProductRnR adult content hits,Tjololo,https://greasyfork.org/zh-CN/scripts/914
+915,ID Copy/Paste,"Places an unobtrusive button on the page which provides quick access to copy your mTurk worker ID. Edited by Tjololo12: Hover highlight for easy copy-paste, does not show on mturk pages",Tjololo,https://greasyfork.org/zh-CN/scripts/915
+916,vBulletin Total Ignore,Remove all mention of ignored people (except thanks),Tjololo,https://greasyfork.org/zh-CN/scripts/916
+918,InstaSynchP Core,The core for a modular plugin system for InstaSync,Zod-,https://greasyfork.org/zh-CN/scripts/918
+919,Baidu Tieba快速浏览帖子_延时,模仿googlecode的看帖模式,Morris.K,https://greasyfork.org/zh-CN/scripts/919
+921,Tumblr Disable Autoplay,Replaces any autoplaying Billy players with non-autoplaying ones.,Makaze,https://greasyfork.org/zh-CN/scripts/921
+923,IP.Chat Logs,Keep and manage IRC-like logs for IP.Chat clients.,Makaze,https://greasyfork.org/zh-CN/scripts/923
+924,IP.Board - Plaintext BBCode,Adds BBCode button support to Plaintext editor mode.,Makaze,https://greasyfork.org/zh-CN/scripts/924
+925,IP.Chat - Nickname Users,Add secondary nicknames for users - shown only in IP.Chat.,Makaze,https://greasyfork.org/zh-CN/scripts/925
+926,IP.Chat Ignore,Allows you to ignore chat messages from specific users.,Makaze,https://greasyfork.org/zh-CN/scripts/926
+927,IP.Chat Kick Notice,Adds [KICKED] to the page title when you have been kicked.,Makaze,https://greasyfork.org/zh-CN/scripts/927
+928,IP.Chat - Convert Smilies to Text,Like it says on the tin.,Makaze,https://greasyfork.org/zh-CN/scripts/928
+929,Makaze Scripts Options Menu,"Creates, edits and deletes options for my scripts.",Makaze,https://greasyfork.org/zh-CN/scripts/929
+930,IP.Board Post Auto-Saving + Management,Save and manage post drafts for IP.Board forums.,Makaze,https://greasyfork.org/zh-CN/scripts/930
+931,IP.Chat Pings + Highlight,Pings you when specified words are said in the chat.,Makaze,https://greasyfork.org/zh-CN/scripts/931
+932,IP.Board Post Loss Prevention,Force the browser to ask you before leaving a page with an unfinished post.,Makaze,https://greasyfork.org/zh-CN/scripts/932
+933,IP.Chat Extended History + Concise Format,Extend IP.Chat history and make messages concise (optional).,Makaze,https://greasyfork.org/zh-CN/scripts/933
+934,dice_concise for IP.Chat,A concise dice simulator for IP.Chat.,Makaze,https://greasyfork.org/zh-CN/scripts/934
+935,IP.Board - Isolate Posts by User,Adds links to 'Who posted in' lists and posts that generate all posts by that user in the thread.,Makaze,https://greasyfork.org/zh-CN/scripts/935
+936,XenForo Post Style,Allows a XenForo user to add a custom BBCode template to their posts. Optional automatic formatting and keyboard shortcut included.,Makaze,https://greasyfork.org/zh-CN/scripts/936
+937,Hide Signatures for Certain Users [XenForo],Like it says on the tin. This script allows the user to hide the signatures of specific users.,Makaze,https://greasyfork.org/zh-CN/scripts/937
+938,IP.Chat-Specific Theme,Adds the ability to use a specific theme for IP.Chat separate from the forum theme. The theme can be changed while in IP.Chat via a separate menu next to the default theme changer.,Makaze,https://greasyfork.org/zh-CN/scripts/938
+939,IP.Board - Hide Gender in Miniprofiles,Like it says on the tin.,Makaze,https://greasyfork.org/zh-CN/scripts/939
+940,Serenes Forest - Change 'Favorite Fire Emblem' to 'Favorite FE' in Miniprofiles,Like it says on the tin.,Makaze,https://greasyfork.org/zh-CN/scripts/940
+941,Serenes Forest - Plaintext BBCode,Adds BBCode button support to Plaintext editor mode.,Makaze,https://greasyfork.org/zh-CN/scripts/941
+942,IP.Chat - Auto-Resizing Popup,Automatically resizes the chat container to fill the window when in pop-up mode.,Makaze,https://greasyfork.org/zh-CN/scripts/942
+943,YouTube Center,YouTube Center contains all kind of different useful functions which makes your visit on YouTube much more entertaining.,Michał Gątkowski,https://greasyfork.org/zh-CN/scripts/943
+944,bb_extra,Display extra information in the Blood Brothers wikia familiar pages,chinhodado,https://greasyfork.org/zh-CN/scripts/944
+945,PTPFavoriteCriticReviews,Display your favorite critic reviews if found on IMDb,kannibalox,https://greasyfork.org/zh-CN/scripts/945
+947,Open Youtube search results in new page,Opens Youtube search results in a new page when clicking the + search button,steeeeve,https://greasyfork.org/zh-CN/scripts/947
+954,Enhanced Steam Community,Add some extra functions to Steam Community,Deparsoul,https://greasyfork.org/zh-CN/scripts/954
+955,Steam 绿光/创意工坊图片修复,缓解部分地区因为网络问题导致的 Steam 绿光/创意工坊图片无法浏览的问题,Deparsoul,https://greasyfork.org/zh-CN/scripts/955
+956,Steam Info,快速查询Steam游戏信息,Deparsoul,https://greasyfork.org/zh-CN/scripts/956
+957,DinoRPG Faster,Making DinoRPG faster,LazyBastard,https://greasyfork.org/zh-CN/scripts/957
+960,Block Opensearch XML specs,Block opensearch xml links,sopidos,https://greasyfork.org/zh-CN/scripts/960
+961,Codeblocksyntax,get code blocks in syntax,creesch,https://greasyfork.org/zh-CN/scripts/961
+962,MTurk Worst Case Scenario Calculator,Shows what your approval rate would be in worst case scenario,Tjololo,https://greasyfork.org/zh-CN/scripts/962
+963,Howrse_Swap_Select_v4_v3_Default_Coats,Swaps the user's selected choice(s) of the v4 default coats for the v3 default coats,daexion,https://greasyfork.org/zh-CN/scripts/963
+964,Howrse Foal's GP Calculator,"Calculates the foals potential GP stats on the mare's covering confirmation page, and displays it at the bottom below the confirmation button.",daexion,https://greasyfork.org/zh-CN/scripts/964
+965,Howrse buy50,Change the first option on the droppings buy menu to 50 instead of 1.,daexion,https://greasyfork.org/zh-CN/scripts/965
+966,Howrse Exact Energy,"Displays the horses exact energy, not the approximate energy.  Requires a page refresh to update the energy listed on the page.",daexion,https://greasyfork.org/zh-CN/scripts/966
+967,dAmnGotMail,Automatically refresh your dA messages.,ordubis,https://greasyfork.org/zh-CN/scripts/967
+968,reorganize tv canals,oragnise la grille de programme du site www.programme-tv.net pour coller à l'ordre des programmes de la freebox,3m,https://greasyfork.org/zh-CN/scripts/968
+969,Geocaching.com - Maps: My Finds and My Hides off by default,The script sets My Finds and My Hides off by default on the Geocaching.com Map.,JonathanH,https://greasyfork.org/zh-CN/scripts/969
+972,Geocaching.com - Easy logging smileys,The script makes it much easier to add smileys to your logs on geocaching.com,JonathanH,https://greasyfork.org/zh-CN/scripts/972
+973,GameCATs Highlighting,"Highlights stuff, I dunno.",King of Cats,https://greasyfork.org/zh-CN/scripts/973
+974,GameFAQs post numberer,Numbers posts on gameFAQs.,King of Cats,https://greasyfork.org/zh-CN/scripts/974
+975,GameFAQs main nav recombobulator,Takes the console list in the header and remakes it with your own chosen list of consoles.,King of Cats,https://greasyfork.org/zh-CN/scripts/975
+976,Youtube - Right Side Description,"Moves the video description to the right of the video, adds options for smaller video, retro player, retro style, and more",Takato,https://greasyfork.org/zh-CN/scripts/976
+977,NordInvasion+,Adds various functions to the NI website.,Kip,https://greasyfork.org/zh-CN/scripts/977
+978,NordInvasion+ Companion,Adds various functions to the NI website.  A companion script to NordInvasion+.,Kip,https://greasyfork.org/zh-CN/scripts/978
+979,NoBrighter,Change element's background color that is too bright to a light green.,henix,https://greasyfork.org/zh-CN/scripts/979
+982,Baidu Tieba快速浏览帖子,模仿googlecode的看帖模式,yuzhiboxiu,https://greasyfork.org/zh-CN/scripts/982
+985,MasterCHC,ultimativní pomocník pro CHC,Martin 2,https://greasyfork.org/zh-CN/scripts/985
+988,Marginal Revolution Kill File,Wipe out annoying people on MR blog,Daniel Weber,https://greasyfork.org/zh-CN/scripts/988
+994,Manga Loader,"Load all manga in current page, only available on 178.com and dm5.com",PrionBlank,https://greasyfork.org/zh-CN/scripts/994
+996,Zippyshare Auto Download,Automatically starts downloads hosted by Zippyshare,PrionBlank,https://greasyfork.org/zh-CN/scripts/996
