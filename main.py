@@ -57,7 +57,6 @@ def getAllScriptInfo(start_id, end_id, num_threads):
         existing_data = pd.read_excel("script_info.xlsx")
         existing_ids = set(existing_data["ID"].tolist())
         start_id = max(start_id, max(existing_ids) + 1)
-        print(f"已读取的脚本ID: {existing_ids}")
     except FileNotFoundError:
         existing_data = None
 
@@ -100,33 +99,32 @@ def getAllScriptInfo(start_id, end_id, num_threads):
         combined_df.to_excel("script_info.xlsx", index=False)
         print("数据保存至 script_info.xlsx")
 
-    if failed_ids:
-        failed_range = f"{failed_ids[0]}-{failed_ids[-1]}"
-        failed_info = {
-            "未成功爬取的脚本ID范围": [failed_range],
-            "未成功爬取的脚本ID": [",".join(map(str, failed_ids))]
-        }
-        failed_df = pd.DataFrame(failed_info)
+if failed_ids:
+    failed_range = f"{failed_ids[0]}-{failed_ids[-1]}"
+    failed_info = {
+        "未成功爬取的脚本ID范围": [failed_range],
+        "未成功爬取的脚本ID": [",".join(map(str, failed_ids))]
+    }
+    failed_df = pd.DataFrame(failed_info)
 
-        with pd.ExcelWriter("script_info.xlsx", mode="a", engine="openpyxl") as writer:
-            try:
-                # 尝试打开现有的Excel文件
-                workbook = openpyxl.load_workbook(writer.path)
-            except FileNotFoundError:
-                workbook = openpyxl.Workbook()
+    file_path = "script_info.xlsx"
 
-            # 如果工作表已存在，则删除它
-            if "未成功爬取的脚本ID" in workbook.sheetnames:
-                del workbook["未成功爬取的脚本ID"]
+    try:
+        # 尝试打开现有的Excel文件
+        workbook = openpyxl.load_workbook(file_path)
+    except FileNotFoundError:
+        workbook = openpyxl.Workbook()
 
-            # 将数据写入新的工作表
-            failed_df.to_excel(writer, sheet_name="未成功爬取的脚本ID", index=False)
+    # 如果工作表已存在，则删除它
+    if "未成功爬取的脚本ID" in workbook.sheetnames:
+        del workbook["未成功爬取的脚本ID"]
 
-            # 保存Excel文件
-            workbook.save(writer.path)
+    # 将数据写入新的工作表
+    with pd.ExcelWriter(file_path, engine="openpyxl") as writer:
+        writer.book = workbook
+        failed_df.to_excel(writer, sheet_name="未成功爬取的脚本ID", index=False)
 
-        print("未成功爬取的脚本ID已记录至 script_info.xlsx")
-
+    print("未成功爬取的脚本ID已记录至 script_info.xlsx")
 
 
 
