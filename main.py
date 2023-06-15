@@ -4,6 +4,7 @@ import threading
 import requests
 import pandas as pd
 import argparse
+import openpyxl
 
 parser = argparse.ArgumentParser()
 parser.add_argument('start_id', type=int)
@@ -108,7 +109,21 @@ def getAllScriptInfo(start_id, end_id, num_threads):
         failed_df = pd.DataFrame(failed_info)
 
         with pd.ExcelWriter("script_info.xlsx", mode="a", engine="openpyxl") as writer:
-            failed_df.to_excel(writer, sheet_name="未成功爬取的脚本ID", index=False, if_sheet_exists="replace")
+            try:
+                # 尝试打开现有的Excel文件
+                workbook = openpyxl.load_workbook(writer.path)
+            except FileNotFoundError:
+                workbook = openpyxl.Workbook()
+
+            # 如果工作表已存在，则删除它
+            if "未成功爬取的脚本ID" in workbook.sheetnames:
+                del workbook["未成功爬取的脚本ID"]
+
+            # 将数据写入新的工作表
+            failed_df.to_excel(writer, sheet_name="未成功爬取的脚本ID", index=False)
+
+            # 保存Excel文件
+            workbook.save(writer.path)
 
         print("未成功爬取的脚本ID已记录至 script_info.xlsx")
 

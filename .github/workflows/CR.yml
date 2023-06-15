@@ -47,4 +47,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add .
           git commit -m "Auto commit by GitHub Action"
-          git push
+          git push origin
