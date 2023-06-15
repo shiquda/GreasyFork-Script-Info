@@ -1,6 +1,21 @@
-name: Crawl Script
+name: CR
 
 on:
+  workflow_dispatch:
+    inputs:
+      start_id:
+        description: start_id
+        required: true
+        default: "1"
+      end_id:
+        description: end_id
+        required: true
+        default: "100"
+      num_threads:
+        description: num_threads
+        required: true
+        default: "5"
+    
   push:
     branches:
       - main
@@ -22,12 +37,6 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run script
-        run: python main.py ${{ matrix.start_id }} ${{ matrix.end_id }} ${{ matrix.num_threads }}
+        run: python main.py ${{ github.event.inputs.start_id }} ${{ github.event.inputs.end_id }} ${{ github.event.inputs.num_threads }}
         env:
           PYTHONUNBUFFERED: 1
-
-    strategy:
-      matrix:
-        start_id: [1]
-        end_id: [100]
-        num_threads: [5]
