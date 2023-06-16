@@ -27,7 +27,7 @@ def getScriptInfo(id):
     script_info = soup.find("section", attrs={"id": "script-info"})
 
     if script_info is None:
-        if response.text.find("已被删除。") != -1:
+        if "已被删除。" in response.text or "This script has been deleted" in response.text:
             print(f"id:{id} 已被删除。")
         elif response.text.find("404") != -1:
             print(f"id:{id} 访问404")
@@ -35,9 +35,20 @@ def getScriptInfo(id):
             with data_lock:
                 failed_ids.append(id)
     else:
-        name = script_info.find("h2").string
-        description = script_info.find("p", attrs={"id": "script-description"}).string
-        author = script_info.find("dd", attrs={"class": "script-show-author"}).find("span").find("a").string
+        name = None
+        description = None
+        author = None
+        site = None
+        license = None
+
+        try:
+            name = script_info.find("h2").string
+            description = script_info.find("p", attrs={"id": "script-description"}).string
+            author = script_info.find("dd", attrs={"class": "script-show-author"}).find("span").find("a").string
+            site = script_info.find("ul", attrs={"class": "block-list"}).find("li").find("a").string
+            license = script_info.find("dd", attrs={"class": "script-show-license"}).find("span").string
+        except AttributeError:
+            pass
 
         # 创建包含数据的字典
         script_data = {
@@ -45,7 +56,9 @@ def getScriptInfo(id):
             "名称": name,
             "描述": description,
             "作者": author,
-            "URL": url
+            "URL": url,
+            "应用到": site,
+            "许可证": license
         }
 
         with data_lock:
