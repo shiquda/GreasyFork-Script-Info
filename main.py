@@ -4,7 +4,6 @@ import threading
 import requests
 import pandas as pd
 import argparse
-import csv
 
 
 parser = argparse.ArgumentParser()
@@ -30,6 +29,8 @@ def getScriptInfo(id):
     if script_info is None:
         if response.text.find("已被删除。") != -1:
             print(f"id:{id} 已被删除。")
+        elif response.text.find("404") != -1:
+            print(f"id:{id} 访问404")
         else:
             with data_lock:
                 failed_ids.append(id)
